@@ -40,7 +40,8 @@ class enemy:
         self.COU = COU;
         self.EXP = EXP;
         
-        self.state = "ALIVE"; # Alive by default
+        self.state = "ALIVE"; # Alive by default #! Should be saved
+        self.filename = "save_file/saved_state_" + str(self.NAME)
         
     def info(self):
         information = str(self.NAME) + " a "                                # NAME has
@@ -88,16 +89,27 @@ class enemy:
                 self.state = "RUNNING";
         return None
     
-    def save_fight(self):
+    def save_state(self):
         """
         To save current state of fight to file (in case restart is needed).
         """
-        pass
+        with open(self.filename, 'w') as file:
+            current_state = str(self.NAME) + " " + \
+                            str(self.AT) + " " + \
+                            str(self.PRD) + " " + \
+                            str(self.EV) + " " + \
+                            str(self.PR) + " " + \
+                            str(self.WEAPON) + " " + \
+                            str(self.DMG_DICE_N) + " " + \
+                            str(self.DMG_BONUS) + " " + \
+                            str(self.COU) + " " + \
+                            str(self.EXP)
+            file.write(current_state)
     
     def next_phase(self):
         self.update_state()
         self.get_state()
-        self.save_fight()
+        self.save_state()
         return None
     
     def take_damage(self, DMG):
