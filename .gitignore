@@ -2,3 +2,4 @@
 __pycache__
 Fights/save_file/
 Fights/current_save
+Fights/encounters/*

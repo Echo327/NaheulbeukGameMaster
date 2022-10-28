@@ -126,48 +126,65 @@ class enemy:
         return None
     
     def critical_attack(self):
+        # Attaque critique
+        pass
+    
+    def attack_mishap(self):
+        # Maladresse attaque
         pass
     
     def critical_block(self):
+        # Parade critique
+        pass
+    
+    def block_mishap(self):
+        # Maladresse parade
         pass
     
     def attack(self):
         if self.state == "ALIVE":
             # Attack
             dice20 = throw_dice20();
+            if dice20 == 1:
+                print(self.NAME,": Attaque Critique!")
+                return None
+            if dice20 == 20:
+                print(self.NAME,": Maladresse Attaque!")
+                return None
             if dice20 <= self.AT:
                 dice6 = [throw_dice6() for i in range(self.DMG_DICE_N)];
                 DAMAGE = sum(dice6) + self.DMG_BONUS;
                 print(self.NAME, "fait", DAMAGE, "de dégâts en EV à son ennemi.") # NAME does DAMAGE damage to their enemy.
             else:
                 print(self.NAME, "rate son attaque.") # NAME misses their attack.
-
-        self.next_phase()
         return None
     
-    def countered(self,hit):
-        if hit == None:
-            return None
+    def counter(self):
         if self.state == "ALIVE":
             dice20 = throw_dice20();
             if dice20 <= self.PRD:
                 print(self.NAME, "arrive à parer l'attaque!") # NAME manages to block the attack.
             else:
                 print(self.NAME,"n'arrives pas à parer. Dégats à calculer.") # NAME does not manage to block. Damage calculation is needed.
-
-        #self.next_phase()
         return None
     
     def defend(self, hit):
-        if hit == None:
+        if hit == None or hit == 0:
             return None
         if self.state == "ALIVE":
             dice20 = throw_dice20();
+            if dice20 == 1:
+                print(self.NAME,": Parade Critique!")
+                return None
+            if dice20 == 20:
+                print(self.NAME,": Maladresse Parade!")
+                return None
             if dice20 <= self.PRD:
                 print(self.NAME,"arrive à parer l'attaque!")
                 print(self.NAME,"contre-attaque.")
                 self.attack()
             else:
+                print(self.NAME,"n'arrives pas à parer l'attaque...")
                 actual_damage = hit - self.PR;
                 if actual_damage > 0:
                     self.take_damage(actual_damage)
