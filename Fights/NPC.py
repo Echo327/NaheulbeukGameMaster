@@ -1,10 +1,15 @@
-import random
+import random     # For dice throws
+import json       # For criticals
 
+# Dices
 def throw_dice100():
     return random.randint(1,100)
 
 def throw_dice20():
     return random.randint(1,20)
+
+def throw_dice10():
+    return random.randint(1,10)
 
 def throw_dice6():
     return random.randint(1,6)
@@ -12,9 +17,26 @@ def throw_dice6():
 def throw_dice4():
     return random.randint(1,4)
 
+# Read critical hits json
+crit_tables = [
+    "critical_hits_bladed",
+    "critical_hits_blunt",
+    "critical_hits_projectile",
+    "critical_hits_hand2hand",
+    "critical_hits_block",
+    "clumsy_hits_standard",
+    "clumsy_hits_spells",
+    "clumsy_hits_projectile",
+    "clumsy_hits_hand2hand"
+]
+myCrits = vars()
+for table in crit_tables:
+    with open('resources/'+table+'.json', 'r') as openfile:
+        myCrits[table] = json.load(openfile)
+
 class enemy:
     """
-    Naheulbeuk is in French, so a translation to English is included in documentation, just in case.
+    Naheulbeuk is in French, so a translation to English is included in documentation/comments.
     
     NAME: Nom (Name), str
     AT : Attaque (Attack Score), unsigned int
@@ -40,7 +62,7 @@ class enemy:
         self.COU = COU;
         self.EXP = EXP;
         
-        self.state = "ALIVE"; # Alive by default #! Should be saved
+        self.state = "ALIVE"; # Alive by default #! State should be saved
         self.filename = "save_file/saved_state_" + str(self.NAME)
         
     def info(self):
@@ -85,7 +107,7 @@ class enemy:
             dice = throw_dice20();
             if dice < 4: # 15% chance
                 self.state = "PANIC";
-            elif dice > 17: # 15% chance
+            elif dice > 17 and self.COU < 19: # 15% chance, Enemies with high COURAGE stat do not run away
                 self.state = "RUNNING";
         return None
     
@@ -105,6 +127,7 @@ class enemy:
                             str(self.COU) + " " + \
                             str(self.EXP)
             file.write(current_state)
+        return None
     
     def next_phase(self):
         self.update_state()
@@ -127,29 +150,72 @@ class enemy:
     
     def critical_attack(self):
         # Attaque critique
-        pass
+        dice20 = throw_dice20();
+        print("Attaque Critique:")
+        print("Blade:", critical_hits_bladed[str(dice20)])
+        print("Blunt:", critical_hits_blunt[str(dice20)])
+        print("Hand_to_Hand:", critical_hits_hand2hand[str(dice20)])
+        print("Projectile:", critical_hits_projectile[str(dice20)])
+        # For choices
+        dice4 = throw_dice4();
+        dice6 = throw_dice6();
+        dice10 = throw_dice10();
+        dice20 = throw_dice20();
+        print("Dice 4:",dice4,"Dice 6:",dice6,"Dice 10:",dice10,"Dice 20:",dice20,"\n")
     
     def attack_mishap(self):
         # Maladresse attaque
-        pass
+        dice20 = throw_dice20();
+        print("Maladresse Attaque:")
+        print("Standard:", clumsy_hits_standard[str(dice20)])
+        print("Spells:", clumsy_hits_spells[str(dice20)])
+        print("Hand_to_Hand:", clumsy_hits_hand2hand[str(dice20)])
+        print("Projectile:", critical_hits_projectile[str(dice20)])
+        # For choices
+        dice4 = throw_dice4();
+        dice6 = throw_dice6();
+        dice10 = throw_dice10();
+        dice20 = throw_dice20();
+        print("Dice 4:",dice4,"Dice 6:",dice6,"Dice 10:",dice10,"Dice 20:",dice20,"\n")
     
     def critical_block(self):
         # Parade critique
-        pass
+        dice20 = throw_dice20();
+        print("Parade Critique:")
+        print("Parade:", critical_hits_block[str(dice20)])
+        # For choices
+        dice4 = throw_dice4();
+        dice6 = throw_dice6();
+        dice10 = throw_dice10();
+        dice20 = throw_dice20();
+        print("Dice 4:",dice4,"Dice 6:",dice6,"Dice 10:",dice10,"Dice 20:",dice20,"\n")
     
     def block_mishap(self):
         # Maladresse parade
-        pass
+        dice20 = throw_dice20();
+        print("Maladresse Parade:")
+        print("Standard:", clumsy_hits_standard[str(dice20)])
+        print("Hand_to_Hand:", clumsy_hits_hand2hand[str(dice20)])
+        # For choices
+        dice4 = throw_dice4();
+        dice6 = throw_dice6();
+        dice10 = throw_dice10();
+        dice20 = throw_dice20();
+        print("Dice 4:",dice4,"Dice 6:",dice6,"Dice 10:",dice10,"Dice 20:",dice20,"\n")
     
     def attack(self):
         if self.state == "ALIVE":
             # Attack
             dice20 = throw_dice20();
+            #dice20=1; # debug, critical
+            #dice20=20; # debug, maladresse
             if dice20 == 1:
                 print(self.NAME,": Attaque Critique!")
+                self.critical_attack()
                 return None
             if dice20 == 20:
                 print(self.NAME,": Maladresse Attaque!")
+                self.attack_mishap()
                 return None
             if dice20 <= self.AT:
                 dice6 = [throw_dice6() for i in range(self.DMG_DICE_N)];
@@ -173,11 +239,15 @@ class enemy:
             return None
         if self.state == "ALIVE":
             dice20 = throw_dice20();
+            #dice20=1; # debug, critical
+            #dice20=20; # debug, maladresse
             if dice20 == 1:
                 print(self.NAME,": Parade Critique!")
+                self.critical_block()
                 return None
             if dice20 == 20:
                 print(self.NAME,": Maladresse Parade!")
+                self.block_mishap()
                 return None
             if dice20 <= self.PRD:
                 print(self.NAME,"arrive à parer l'attaque!")
