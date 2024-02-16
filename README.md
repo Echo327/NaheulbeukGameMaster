@@ -5,10 +5,18 @@ As it's for personal use, code will come first, then when it's "finished" the Us
 Nevertheless, http://www.naheulbeuk.com/ contains all the rules and regulations for the game. Any GM who knows the rules (and some programming) should in theory understand how to use the code without a UG. UG will probably end up being heavily inspired or a direct translation of the rulebook.
 
 Files and Folders:
-- "Test" unit testing - format yet to be fixed
+- "Test" unit testing - framework yet to be determined
 - "User Guide" - Will contain User Guides (1 chapter per .ipynb notebook)
 - example_* files - Example use PDFs of .ipynb notebooks
 - Finally, 1 folder per chapter of UG (Fights, ...)
+
+## How to make repo usable (first time setup)
+1. Make a folder Fights/save\_file
+2. Run notebook (.ipynb) in Fights/resources to generate .json files
+3. Start Fights/fights.ipynb and follow indications
+
+TODO: Add proper instructions
+TODO: Add install.sh that does steps 1 and 2
 
 ## Fights
 Fights can take a long time, especially when there are a lots of enemies, players are kept waiting for dice rolls to figure out what's going to happen. That interrupts flow. "Fights" aim to streamline this process. Instead of rolling the dice, determining the outcome, looking at charts, what's the critical hit, how much resistance does the enemy have, does the weapon break, how does it break, etc. "Fights" is going to be such that only the enemies need to be configured (separate files per encounter prepared beforehand), and hits that players land on the enemy to be input when hit is taken; and everything else is just a matter on changing maybe the name of the enemy concerned and running the block to get the outcome.
