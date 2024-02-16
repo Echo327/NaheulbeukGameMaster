@@ -101,6 +101,7 @@ class enemy:
             self.state = "FLED";
         elif self.EV <= 0:
             self.state = "DEAD";
+            self.EV = 0;
         elif self.EV <= 3:
             self.state = "FAINTED";
         elif self.EV < 6 and self.state=="ALIVE":
@@ -144,8 +145,10 @@ class enemy:
         return None
     
     def gain_health(self, HEAL):
-        self.EV += HEAL
-        print(self.NAME, "a récupéré", HEAL, "en EV.")    # NAME healed HEAL health.
+        if self.state != "DEAD":
+            self.EV += HEAL
+            print(self.NAME, "a récupéré", HEAL, "en EV.")    # NAME healed HEAL health.
+        self.next_phase()
         return None
     
     def critical_attack(self):
