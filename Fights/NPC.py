@@ -145,6 +145,7 @@ class enemy:
         return None
     
     def gain_health(self, HEAL):
+        # TO-DO: Is capped heal to max health needed?
         if self.state != "DEAD":
             self.EV += HEAL
             print(self.NAME, "a récupéré", HEAL, "en EV.")    # NAME healed HEAL health.
