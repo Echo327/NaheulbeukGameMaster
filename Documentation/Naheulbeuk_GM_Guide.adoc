@@ -1,0 +1,1181 @@
+:sectnums: |,all|
+:toc: auto
+
+= Naheulbeuk Roleplaying Game
+Basic Rules v3.1 (for confirmed Game Masters)
+
+The parts of the guide in English have been converted from reglesdebase-naheulbeuk-jdr.pdf and should be considered supported by software. Quoted parts in French are copy-pasted text from the official document that has not been converted in English and is to be considered not supported by software yet.
+
+The user will be referred to as *GM* as the software is aimed towards being used by a Game Master.
+
+*Acronyms*
+[cols="1,5"]
+|===
+|GM|Game Master|
+|===
+
+____
+ EN LISANT CE DOCUMENT :
+ J'atteste avoir plus de douze ans et demi, ne pas mettre mes doigts dans mon nez
+ et avoir déjà joué le rôle de Maître du Jeu (MJ) dans le cadre d'un jeu de rôle,
+ même si ce n'était pas toujours drôle. Sinon, j'ai lu un doc qui explique tout.
+ Je sais diriger un groupe et lui faire jouer un scénario
+ Je sais gérer tous les aspects du jeu en même temps : règles, personnages, PNJ, monstres, pièges
+ Je sais ce qu'est un PNJ
+ Je sais improviser quand les joueurs font n'importe quoi
+ Je sais m'organiser pour que le jeu soit fluide
+ Je sais faire passer des épreuves aux joueurs quand c'est nécessaire, et en gérer la difficulté
+ Je sais attribuer des points d'expérience
+ Je sais préparer un scénario
+ Je sais réchauffer une pizza
+ SI CE N'EST PAS LE CAS, lisez le “Guide du maître débutant” dans la section réservée aux débutants
+ Note importante de POC : les règles de base sont proches des règles d'un JDR allemand nommé « L'Oeil 
+Noir », jeu qui était sorti en France il y a bien longtemps. Si vous n'êtes pas trop jeune, vous y avez sans 
+doute joué. Sinon, oubliez. Le fait est que j'ai créé Naheulbeuk en souvenir de ce jeu, que j'ai pratiqué 
+pendant des années et qui m'a bien fait rire. On y retrouve donc les mêmes principes de base, et c'est 
+pourquoi ce jeu gratuit ne pouvait pas être trop éloigné de « L'Oeil Noir ». Cependant, le jeu Naheulbeuk 
+diffère par de très nombreux détails et par l'intégralité du contenu.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 1
+Quelques mots avant de commencer
+ Vous vous apprêtez à faire jouer une aventure dans le monde de Naheulbeuk. Bravo, c'est courageux. Vous allez peut
+être perdre toute crédibilité dans un cadre socio-professionnel, et vous allez entraîner vos amis avec vous. Mais tant pis, 
+on est tous passés par là. L'important, c'est de s'amuser longtemps et pour pas cher.
+ Si vous avez déjà pratiqué un Jeu de Rôle fantasy, vous verrez qu'au premier regard celui-ci n'est pas très différent. Ici, 
+vous avez affaire à un univers qui est normalement connu de vos joueurs, puisqu'ils ont écouté les MP3 du Donjon à de 
+nombreuses reprises (sinon, ce ne sont que des renégats). Inutile donc de les obliger à lire 439 pages de background. S'ils 
+veulent en savoir plus ils ont le site officiel, les BD, des romans et une encyclopédie en ligne. Il y a de quoi faire.
+ Vous verrez qu'on n'est pas obligé de faire n'importe quoi dans le JDR Naheulbeuk : les règles de base, les personnages, les 
+monstres, la magie, le matériel et les lieux suffiront bien souvent à garder la touche humoristique de la saga. Les tables de 
+critiques en elles-mêmes sont déjà suffisantes pour se marrer (ha tiens, zut, je me suis coupé un doigt). Mélanger des 
+origines et des métiers permet d'incarner des personnages loufoques et de monter des groupes de joueurs au comportement 
+amusant. Je conseille donc de jouer de façon « normale », sans en rajouter. Les gags viendront se greffer naturellement.
+ Il y a très peu de caractéristiques dans le jeu, et donc, pour les épreuves concernant les idées saugrenues des joueurs, c'est 
+au MJ de se débrouiller. Pour ma part je fonctionne sur un système de moyenne, dès que l'épreuve devient technique. Les 
+caractéristiques de base, les malus ou les bonus suffisent largement à s'amuser sans se compliquer la vie.
+ Une fois les règles de base assimilées et le système de combat intégré, il suffit de télécharger les différents documents 
+permettant de jouer : tables des critiques, tableaux des prix de l'équipement, manuels de sorcellerie, fiches de personnages, 
+montures, poisons, gemmes, etc. C'est pratique et modulaire, dans le sens où les documents seront ensuite classés par le MJ 
+dans un dossier en fonction de son organisation personnelle.
+ Je conseille de ne donner aux joueurs que leur fiche de personnage, leurs fiches d'origine/métier et leurs documents de 
+magie/prêtrise. Ils découvriront ainsi, au fur et à mesure de leurs pérégrinations, que la vie en Terre de Fangh n'est pas 
+trop chère mais qu'il faut économiser pour se payer du bon matériel, et que celui-ci peut être crucial. Consultez à ce propos 
+le Guide de l'équipement.
+ Si les joueurs sont des débutants, et dans le cas où le MJ ne veut pas se compliquer la vie : il vaut mieux éviter de prendre 
+un mage. Le background magique de Naheulbeuk est gigantesque et on a tendance à s'y noyer. La Magie, c'est le bordel, on 
+ne le dira jamais assez. Il est possible de trouver une solution intermédiaire en jouant un prêtre (sachant que les dieux sont 
+assez turbulents en Terre de Fangh, donc un prêtre n'est pas forcément niais et sympa).
+ Allez, bonne route !
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 2
+____
+== Characters
+
+
+
+== Combat
+
+
+
+== Others
+=== Character creation _(currently unsupported)_
+____
+Création des clampins personnages
+ Caractéristiques principales
+ Lancez cinq fois un D6 pour obtenir les caractéristiques principales. Ces jets cruciaux vont définir tout le profil du 
+personnage. On peut déjà rigoler, car les joueurs malchanceux commencent en général par faire des jets pourris. Vous 
+ajoutez 7 à chaque score pour obtenir les caractéristiques suivantes (ce qui donnera une note de 8 à 13) :
+ ➢ COURAGE (COU)
+ ➢ INTELLIGENCE (INT)
+ ➢ CHARISME (CHA)
+ ➢ ADRESSE (AD)
+ ➢ FORCE (FO)
+ Notez les caractéristiques de base dans les cases prévues à cet effet sur la feuille du perso. Un score de 8 est très bas, un 
+score de 13 est exceptionnel. Un score de 10 représente une moyenne puisque vous aurez 50% de chance de réussir une 
+épreuve liée à cette caractéristique (de 1 à 10 au D20). Ensuite, jetez un œil au document des origines et métiers pour 
+choisir un profil conforme à vos caractéristiques (voir détail en page 5). Quand vous avez choisi le profil du personnage, 
+reportez les différentes modifications liées à l'origine ou au métier, puis passez à l'étape suivante. À ce stade, vous en 
+savez assez pour finir de remplir votre fiche !
+ Vous pouvez décider de ne pas tirer ces caractéristiques au hasard, et laisser au joueur la possibilité de choisir ses scores 
+pour obtenir un personnage qu'il aurait envie d'incarner. MAIS si vous laissez trop de liberté, vous allez toujours voir 
+tomber les mêmes choix, car bien évidemment les joueurs vont choisir d'incarner les héros les plus forts afin d'optimiser 
+l'affaire : hauts elfes mages, elfes noirs voleurs, barbares guerriers... Et il n'y aura personne pour jouer le gobelin, le paysan 
+au physique ingrat ou le sylvain stupide. C'est dommage.
+ Il existe plusieurs façons d'éviter les déconvenues : par exemple, en déplaçant simplement les résultats dans les cases, pour 
+faire pencher la tendance (échange force/intelligence, ou courage/charisme) et tenter de s'approcher du vœu du joueur. Vous 
+pouvez également octroyer 15 points (moyenne des 5 jets au D6) à répartir dans 5 cases en ajoutant 7 à chaque fois pour 
+obtenir vos caractéristiques de base, mais cela vous donnera toujours un personnage moyen et ça ne laisse pas de place à 
+l'exceptionnel, ni au médiocre.
+ Si le joueur veut à tout prix incarner un type de héros particulier, vous pouvez sélectionner un personnage pré-tiré dans 
+la liste disponible dans le site, et vous éviter du tracas. Mais dans la vraie vie, on ne choisit pas son origine ou son milieu 
+avant de naître... C'est pourquoi je préconise le système 100% aléatoire, qui reste le plus logique. Rien que pour voir la tête 
+des joueurs, ça vaut parfois le coup...
+ NOTE : Le simple fait de vouloir incarner un héros optimisé est déjà contraire au principe de l'univers Naheulbeuk, qui est 
+majoritairement peuplé de héros bidons... Alors si vous tombez sur un joueur de ce type, dissuadez-le. En Terre de Fangh, 
+on part à l'aventure « avec ce qu'on a ».
+ énergie vitale, Énergie astrale
+ Les scores d'énergie vitale initiale (notée « EV », ou « PV » pour points de vie) ainsi que l'énergie astrale (notée « EA », ou 
+PA pour « points astraux ») seront donnés par la fiche d'origine ou de métier, une fois que le joueur a choisi ces derniers. Un 
+score donné par l'origine peut être modifié par l'apprentissage d'un métier.
+ Points de destin
+ Chaque point de destin permet de sauver le personnage ou la situation à un moment choisi par le joueur.
+ Création du personnage : tirez 1D4-1 pour chaque personnage. Cela donne un score de 0 à 3... Oui, les guignards n'ont pas 
+de point de destin. Vous aurez des explications plus bas.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 3
+Attaque et parade
+ On suppose que l'aventurier a un minimum d'entraînement au moment où il se lance. De base, il reçoit :
+ ➢ ATTAQUE (AT) 8
+ ➢ PARADE (PRD) 10
+ Ces compétences de combat peuvent être modifiées – en plus ou en moins – par le choix d'une origine ou d'un métier. Voir 
+également ci-dessous les modifications liées à une ADRESSE exceptionnelle.
+ Fortune de départ
+ Tirer le pécule de départ permet de connaître la classe sociale du personnage. Le jet de dés est le suivant :
+ ➢ 2D6 x 10  = pécule de pièces d’or au départ de l’aventure.
+ Un personnage qui commence avec 20 pièces d'or est un roturier, paysan ou orphelin qui a mis un peu d'or de côté pour 
+partir à l'aventure (ou qui a fait les poches d'un marchand ambulant). Un aventurier qui se lance dans le métier avec 120 
+pièces d'or est un fils de noble ou de riche marchand, un héritier, un voleur très doué. Le Grand Vilain MJ, une fois en 
+possession de cette information, va choisir dans les tableaux d'équipement le matériel dont dispose l'aventurier pour sa 
+première aventure. En toute logique, un aventurier riche sera déjà bien équipé, et inversement le roturier sera mal vêtu, 
+armé d'une épée pourrie. Voir le Guide de l'équipement pour en savoir plus.
+ Caractéristiques supérieures/inférieures à la moyenne
+ FORCE : un score exceptionnel offre forcément des avantages dans ce monde violent...
+ Pour chaque point de FORCE supérieur à 12 : +1 point d’impact (dégâts des armes améliorés au corps à corps ou à distance)
+ Le bonus au dégâts sera donc de +1 pour FO 13, et de +4 pour FO 16, etc.
+ Et au contraire sur une carac. de FORCE de 8 ou inférieure : -1 point d’impact (dégâts des armes diminués, car mauviette)
+ Contrairement au bonus, le malus ne se cumule pas car on considère que l'arme, même maniée faiblement, peut blesser.
+ ADRESSE : caractéristique très à la mode chez les aventuriers.
+ Si l'ADRESSE est supérieure à 12 : +1 à l’attaque OU à la parade (un seul point quel que soit le score).
+ Et au contraire si l'ADRESSE est à 8 ou inférieur : -1 à l’attaque OU à la parade.
+ INTELLIGENCE : quand savoir faire mal peut s'avérer utile.
+ Pour chaque point d'INTELLIGENCE supérieur à 12 : +1 point de dégâts des sorts (selon sortilège)
+ Le bonus au dégâts sera donc de +1 pour INT 13, et de +4 pour INT 16, etc.
+ Il s'applique à chaque jet de dégât de sortilège : s'il y a plusieurs cibles, il s'appliquera donc à chaque cible
+ Il n'y a pas de malus pour intelligence faible, car un score faible ne permet pas l'usage de la magie, quoi qu'il arrive. Et 
+puis, le sort est déjà doué d'une vie propre...
+ Résistance à la Magie
+ Cette caractéristique secondaire est obtenue en faisant la moyenne de COURAGE, INTELLIGENCE et FORCE. Vous 
+pourrez voir plus bas comment elle s'utilise.
+ Compétences
+ Elles se trouvent dans les fiches des origines et métiers individuelles, et sont délivrées directement aux joueurs après la 
+création du personnage. Il peut s'agir de tares aussi bien que d'aptitudes, de capacités ou de pouvoirs.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 4
+____
+=== Attributes _(currently unsupported)_
+____
+Les caractéristiques et leur usage
+ À quoi servent donc ces caractéristiques chiffrées au cours de la partie ?
+ ➢ Courage (COU) : utilisé principalement pour déterminer qui frappe le premier dans un combat au corps à 
+corps, on s'en sert aussi pour gérer les réactions des héros (ou des monstres) à une situation stressante. Si le 
+héros se retrouve brusquement cerné par trois orques, le MJ peut lui demander de passer une épreuve de 
+courage. La partie continue normalement s'il réussit, mais en cas d'échec il paniquera et tentera de 
+prendre la fuite, ou bien il se mettra à pleurer.
+ ➢ Intelligence (INT) : on teste l'intelligence en particulier quand on pratique la magie... C'est la 
+caractéristique qui sert à lancer la plupart des sortilèges ! Elle peut augmenter les dégâts des sorts. Elle 
+permet aussi de réussir les potions ou de récolter des informations. Parfois le MJ peut demander un test 
+d'intelligence pour sortir les aventuriers d'une situation. On s'en sert aussi pour détecter les pièges, 
+trouver son chemin dans un labyrinthe...
+ ➢ Charisme (CHA) : représente l'apparence du héros et son « aura », prestigieuse ou non... Permet 
+d'influencer les gens, de les convaincre, et d'une manière générale d'influencer les dieux. C'est la 
+caractéristique principale des prêtres et des ménestrels.
+ ➢ Adresse (AD) : la caractéristique la plus souvent testée hors du combat. La plupart des actions risquées 
+entreprises par un héros nécessitent une épreuve d'adresse : escalader un mur, se faufiler, désamorcer un 
+piège, grimper à un arbre, esquiver des coups... Bon nombre de compétences sont liées à l'adresse. N'hésitez 
+pas à lancer à la volée des épreuves d'adresse quand un héros désire faire l'équilibriste. Une bonne adresse 
+permet également d'améliorer l'habileté au combat (attaque/parade) et l'utilisation d'armes de jet.
+ ➢ Force (FO) : inutile de faire un dessin... La force est utile en combat (elle détermine les dégâts entre autres) 
+mais pas prépondérante : c'est surtout l'adresse qui est utile, car elle permet d'augmenter les chances de 
+toucher. Cela dit, la force permet aux héros de pousser quelqu'un du haut d'une falaise, de défoncer une 
+porte, de soulever un rocher, d'utiliser des armes de bourrin, de transporter des charges.
+ ➢ Énergie astrale (EA, PA) : cette énergie est utilisée par les mages/prêtres/paladins pour lancer des sorts et 
+appeler des prodiges. Chaque action de ce type a un coût en PA (points astraux), en général dépendant de 
+la puissance du sort. Les points dépensés sont retirés du capital de PA, en attendant d'être récupérés soit 
+par le repos, soit par l'étude, soit par le transfert ou par l'usage d'une potion.
+ ➢ ATTAQUE (AT) et PARADE (PRD) : les caractéristiques principales utilisées pour le combat au corps à 
+corps. Voir plus bas la rubrique Règles de combat.
+ ➢ Résistance à la magie (Res. Mag. ou RM) : dans certains cas, on peut tenter de résister à un sortilège – 
+c'est une moyenne de plusieurs caractéristiques (COU, INT, FO) qui détermine la volonté du héros, sa 
+capacité à ne pas flancher face à une agression magique. Les projectiles magiques (type boule de feu) ne 
+sont pas remis en question par la résistance à la magie, car une fois lancés ils agissent comme des attaques 
+physiques. En revanche, de nombreux sorts plus élaborés (tels que les attaques mentales, les illusions, les 
+malédictions) peuvent être évités (par les héros, mais aussi par les PNJ et les monstres) en réussissant une 
+épreuve de résistance à la magie. Dans tous les grimoires de magie ou prêtrise, les sorts concernés par le 
+test de RM comportent une mention « Test de résistance magique obligatoire ». Utiliser un test de RM à 
+bon escient permet d'éviter que les mages ne deviennent des « tueurs de boss » en utilisant des sortilèges 
+stupides sur des monstres ou des ennemis puissants. Ces derniers, en effet, ont souvent une bonne 
+résistance à la magie ! Les joueurs peuvent également se protéger contre les mages ennemis. En 
+augmentant une ou plusieurs caractéristiques impliquées dans cette moyenne, le héros devra bien sûr 
+recalculer sa moyenne de résistance à la magie.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 5
+____
+=== Origin, profession, and skills of hero _(currently unsupported)_
+____
+L'origine et le métier du héros, compétences
+ Les origines et métiers du jeu ont été prévus pour garder la logique propre à Naheulbeuk, qui n'est pas forcément 
+la même que dans d'autres jeux.  Pour cette raison, il vaut mieux essayer de suivre un minimum les indications 
+fournies (et puis ça évite de se mélanger les pinceaux entre les fiches réservées au maître et celles réservées aux 
+joueurs, qu'il faudrait alors corriger dans les deux cas).  Cela dit, si vous voulez faire n'importe quoi, vous en 
+avez tout à fait le droit ! Un elfe sylvain dénué de charisme, un gobelin surpuissant ou un mage bête peuvent se 
+révéler très amusants à jouer (mais ils ont de grandes chances de décéder rapidement, hélas).
+ Une fois que vous aurez tiré les caractéristiques du personnage (page précédente), il faut définir en premier lieu 
+son origine : c'est ainsi qu'il héritera de ses compétences. Pour vous aider dans cette démarche, les premières lignes 
+de chaque cas dans le document Origines et métiers représentent les valeurs minimales et maximales 
+recommandées pour chaque origine. Le tableau Origines-métiers-quickstart vous permettra d'y voir clair.
+ Distribuez donc au joueur sa fiche personnelle d'origine afin qu'il en sache un peu plus sur ses qualités et ses 
+défauts (il verra ainsi quelles sont ses compétences). Il pourra ensuite se choisir un métier (ou pas) et s'ajouter 
+encore des compétences. Un héros sans métier aura moins de compétences à gérer et sera donc plus limité, et puis 
+c'est un peu moins la classe quand on se présente.
+ En cas de doute ou pour se simplifier la vie, le joueur fera aussi bien de jouer un humain. Il aura bien moins de 
+problèmes pour gérer sa vie quotidienne et trouvera de l'équipement un peu partout (de plus il peut choisir parmi 
+toutes les compétences et tous les métiers).
+ À titre d'exemple, les combinaisons suivantes sont assez redoutables :
+ Gobelin assassin/ninja : si le joueur tire un personnage qui n'a aucun atout sauf l'adresse. Les valeurs 
+maximales du gobelin sont presque toutes bridées, il n'aura pas trop de possibilité d'évoluer mais en revanche il se 
+révèle très amusant (et complexe) au niveau du roleplay.
+ Gobelin voleur : une autre combinaison sympa pour un personnage qui a tout dans l'adresse, assez fragile.
+ Elfe noir assassin/ninja : combinaison redoutable avec un roleplay plus facile que pour le gobelin (et une bien 
+meilleure espérance de vie). Fonctionne aussi très bien avec le métier de voleur, évidemment.
+ Gnôme des forêts voleur : le gnôme des forêt est LE voleur ultime. Très adroit, minuscule et silencieux. 
+Attention, il est très fragile et vraiment pas fait pour le corps-à-corps (sauf pour l'esquive).
+ Haut-elfe prêtre : le prêtre a besoin d'un bon charisme et d'intelligence. L'origine « haut elfe » est assez élitiste à 
+la base, il est donc capable de s'en sortir également au combat corps-à-corps.
+ Haut-elfe mage : redoutable également, puisque les deux moyennes pour la magie sont INT/CHA et INT/AD. Il 
+faut quand-même pas mal de chance au dé pour tirer un personnage haut elfe.
+ NOTE : en ce qui concerne le bi-classage, il n'est pas prévu pour le moment de mélanger plusieurs métiers, mais 
+cela viendra peut-être. Toutefois, cela décourage le travail d'équipe, donc je ne conseille pas.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 6
+____
+=== Recovery Rules _(currently unsupported)_
+____
+Règles de récupération
+ Au cours de leurs aventures, les héros vont voir diminuer leur capital d'énergie vitale (souvent) et d'énergie 
+astrale (encore plus souvent). Voici quelques lignes directrices pour le Grand Vilain MJ, en ce qui concerne la 
+récupération des points de vie et de l'énergie astrale. Important : ce capital récupéré ne peut jamais dépasser le 
+capital initial... Sauf bien sûr quand c'est spécifié par un sort ou un article magique.
+ La récupération des PV dépend des conditions de repos : on dort moins bien dans un donjon humide, à l'affût du 
+moindre bruit, que dans une auberge de qualité aux draps propres, après avoir mangé une bonne soupe. La 
+proximité d'un barbare qui sent des pieds ou d'un ogre qui ronfle peut également rendre le sommeil difficile. On 
+peut considérer quelques règles simples pour calculer les points récupérés :
+ ➢ Récupération basse : repos dans une salle de donjon ; camping en extérieur sans tente ; logement dans une 
+salle commune ; dormir en groupe ; proximité d'un milieu hostile ; présence de monstres dans le groupe ; 
+dormir dans le froid ou l'humidité
+ ➢ Récupération normale : dormir dans une auberge classique, se reposer à la taverne, au chaud, squatter une 
+maison abandonnée
+ ➢ Récupération excellente : être invité chez des bourgeois, être logé en auberge de qualité, dormir chez soi en 
+ville comme un bourgeois insouciant
+ En situation d'aventure, on se retrouve plus souvent en récupération basse que normale... Mais c'est logique.
+ Énergie vitale
+ De base, 1 point récupéré pour deux heures de repos, règle sujette aux modifications suivantes :
+ ➢ Récupération basse en mauvaises conditions de sommeil ou repos : 1 PV/4H
+ ➢ Récupération normale : 1 PV/2H
+ ➢ Récupération excellente, en bonne condition de sommeil ou repos : 1PV/1H
+ Il est évident qu'on ne peut pas toujours être précis au point près, c'est pourquoi le MJ doit savoir s'adapter et 
+réfléchir par lui-même, sans se prendre la tête avec des tableaux.
+ Repas : Comptez également 2 PV récupérés par repas (maximum 3 par jour, on connaît les semi-hommes). 
+Certaines capacités permettent d'obtenir des repas plus riches (comme « Cuistot »).
+ Et en plus :
+  possibilité de récupérer chez un guérisseur : 2 P.O. Le point de vie (durée du soin : 30 mn / PV)
+  possibilité de récupérer des points grâce à des potions : voir les différents prix dans les tableaux correspondants
+ Énergie Astrale
+ De base, 3 points récupérés pour une heure de repos, règle sujette aux modifications suivantes :
+ ➢ Récupération basse en mauvaises conditions de sommeil ou repos : 2 PA/1H
+ ➢ Récupération normale : 3 PA/1H
+ ➢ Récupération excellente, en bonne condition de sommeil ou repos : 4PA/1H
+ Tout comme pour l'énergie vitale,  le MJ doit savoir s'adapter et réfléchir par lui-même.
+ Étude : 4 points récupérés pour une heure d'étude (lecture de livre, prière, passage dans une guilde, etc.)
+ Et en plus :
+  possibilité d'acheter un rechargement des PA chez un autre mage spécialisé : 10 P.O. Pour 1 PA
+  possibilité de récupérer des points grâce à des potions : voir les différents prix
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 7
+Abuser du système : les potions
+ Les aventuriers auront vite compris le principe : il est plus long de récupérer des points EV/EA que d'en perdre... 
+C'est pourquoi on utilise parfois des potions. Les potions sont utiles en particulier dans les donjons, car il n'est pas 
+facile d'y trouver un endroit calme pour dormir... Le cas des mages est particulier, puisqu'ils auront tendance à se 
+trouver rapidement inutiles s'ils ne disposent plus d'énergie astrale pour lancer leurs sortilèges, et vont tenter 
+par tous les moyens de récupérer des PA. Ceci arrive en début de carrière lorsque les mages « gâchent » leurs 
+sorts contre n'importe quel ennemi de base et se trouvent rapidement démunis. Ils risquent alors de profiter du 
+système en ingérant des potions les unes derrière les autres. Mais ce n'est pas très logique, car les potions sont des 
+produits puissants et difficiles à digérer. Ils agissent sur l'organisme.
+ Pour éviter ce problème, les potions coûtent cher (en particulier les potions de mana, qui permettent de récupérer 
+des points astraux). Si jamais les aventuriers sont très (trop ?) riches et qu'ils ont les moyens d'acheter des tas de 
+potions, je vous conseille d'utiliser ma règle des « effets secondaires magiques ». Un mage prend trois potions de 
+mana dans l'après-midi ? Imaginez ce que ce breuvage chimique peut bien faire à son estomac... À partir de la 
+troisième, signalez-lui qu'il a mal au ventre. À la quatrième, flanquez-lui une bonne « tourista du sud » ou une 
+« boustifilasse » (voir le document des Maladies en Terre de Fangh) et il saura que ça n'est pas sans conséquence. 
+Un guerrier s'avance en encaissant les coups et se gave de potions de vie ? Signalez-lui que ses plaies sont 
+infectées et qu'il a chopé la fièvre fanghienne... Il se retrouva alors à l'état de loque et y réfléchira à deux fois. 
+Tout cela pour conclure : le jeu de rôle papier n'est pas dans un jeu vidéo, et on ne peut pas impunément 
+« exploiter » le système. Châtiez les roublards, vous êtes le MJ.
+ Les joueurs ont toujours de bonnes idées pour abuser du système, mais ce qu'ils ne savent pas c'est que vous avez 
+largement autant de moyen de leur enseigner la logique d'aventure et « les bonnes manières ».
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 8
+____
+=== Materials, Wealth, and Characteristics _(currently unsupported)_
+____
+Matériel, fortune et caractéristiques
+ Le matériel est très important en Terre de Fangh : il a une grande influence sur les caractéristiques des 
+personnages. C'est pourquoi il faut veiller, en tant que MJ, à deux règles essentielles :
+ 1.
+ Ne pas « donner » aux aventuriers du matériel trop performant
+ 2. Ne pas donner trop d'or à des aventuriers de bas niveau, ce qui équivaut au point 1
+ La différence entre le point 1 et le point 2 est la suivante : c'est le MJ qui décide du matériel vendu dans les 
+magasins. Un aventurier un peu trop riche ne sera pas forcément « suréquipé » si le MJ veille au grain. Les 
+tableaux d'équipement fournis dans le site ne représentent qu'un ensemble, vaste et non exhaustif, de bidules qu'il 
+est possible d'acheter en Terre de Fangh. Certains objets sont uniques ! On ne les trouve pas dans un bazar de 
+cambrousse, et parfois ils ne sont pas à vendre... Leur valeur en PO est donnée à titre indicatif. Il faut se rendre à 
+Glargh ou à Waldorg pour dénicher le matériel de haut niveau. Les armes et protections bas de gamme donnent 
+des malus, le matériel de qualité se contente en général de supprimer les malus, et le matériel d'exception donne 
+du bonus. Veillez à ne pas donner des bonus en masse à vos aventuriers de niveau 1, ils doivent sentir que la vie 
+d'aventurier n'est pas facile ! Consultez le Guide de l'équipement pour d'autres précisions.
+ Quand des aventuriers se rendent dans un magasin, ils demandent à savoir ce qui se vend... Le vendeur sera donc 
+joué par le MJ et peut leur proposer diverses choses, en fonction de leur fortune et du contexte. Il n'est pas 
+question de montrer aux joueurs les tableaux d'équipement et leur demander de choisir dedans... Veillez à bien 
+notifier les bonus/malus des différents équipements sur les feuilles de perso, et surtout à les retirer lorsque le héros 
+perd ou change de matériel. Les cases « modifiée... » de la feuille sont là pour ça (voir les personnages pré-tirés).
+ Il peut être utile également d'adapter votre scénario à la volée en fonction des besoins des joueurs... Leur faire 
+dénicher une arme si le Barbare a cassé son épée, une potion de soin si l'un d'eux est grièvement blessé. C'est 
+pourquoi, dans les scénarii que je propose, le « butin » n'est que rarement précisé.
+ Ordre de grandeur : un aventurier de niveau 1 devrait posséder au maximum 300 PO ; 1000 pour un niveau 2 ; 
+3000 pour un niveau 3 ; 5000 pour un niveau 4 ; 6000 à 8000 pour du niveau 5. Ceci leur permettra de 
+comprendre la valeur de l'or et de se creuser un peu la tête pour le dépenser. Choisissez avec discernement de leur 
+faire trouver du matériel (utile, ou à revendre) et de l'or (sachant que celui-ci ne pousse pas sur les arbres). Et 
+n'oubliez pas que tout cela prend de la place dans le sac à dos. Souvent, le héros devra également se creuser la 
+cervelle pour choisir d'emmener tel ou tel article plutôt qu'un autre, car il ne peut pas tout transporter. Une 
+cotte de maille pèse près de dix kilos, le héros ne peut donc pas en transporter cinq pour les vendre au marché (en 
+plus, c'est cher). Souvenez-vous qu'un commerçant aussi peut choisir de ne pas racheter du matériel ou de le 
+prendre au rabais (nous ne sommes pas ici dans un jeu vidéo : c'est le MJ qui décide de tout !). Les objets revendus 
+à des marchands ne sont repris qu'à 50% ou moins de leur prix neuf.
+ Attaque du magasin : comme je l'avais décrit dans un vieil épisode de Naheulbeuk, il y a parfois des moments où 
+les aventuriers décident qu'ils sont assez forts pour attaquer le vendeur/la vendeuse du magasin et se servent 
+librement dans les rayons... Ce qui est souvent très nuisible à votre partie, dans la mesure où le matériel 
+soudainement récolté peut rendre les héros trop puissants pour leur niveau. Pour éviter cela, n'oubliez pas de 
+toujours placer des vigiles/plantons/gardes autour ou à l'intérieur du magasin. La présence d'un malabar 
+décourage la plupart des aventuriers... Ils peuvent essayer de dérober quelque chose, mais c'est un moindre mal.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 9
+____
+=== Experience Points _(currently unsupported)_
+____
+Attribution des points d'expérience
+ Il n'y a pas de règle établie pour cela... Le bon MJ sait quand et comment donner des points d'expérience. Il faut 
+cependant connaître l'échelle sur laquelle on doit se baser. Pour cela, nous avons préparé deux documents :
+ ➢ les tableaux des créatures et rencontres, et la valeur Classe/XP
+ ➢ le tableau des niveaux d'expérience
+ Dans les premiers, vous pourrez voir de quel bois se chauffent les potentiels ennemis des héros. La colonne 
+« Classe/XP » représente la classe de monstre, autrement dit le nombre de points d'expérience à attribuer quand 
+le monstre est défait. L'attribution des points est à assurer par le MJ... En fonction des mérites de chaque 
+combattant. Les règles de certains jeux précisent que c'est celui qui achève le monstre qui récupère les XP. C'est 
+tout à fait grotesque, mais ça peut rendre le jeu plus débile et encourager le roleplay. À vous de voir... On peut 
+également partager les XP entre tous les membres du groupe, ou bien faire en fonction des actions des joueurs, à la 
+volée (ce que je pratique, personnellement).
+ Il faut donc se farcir ving-cinq coyotes pour récupérer cent points d'expérience, ou simplement un golem de 
+pierre puissant. Le problème étant bien sûr qu'un golem seul peut décimer tout un groupe d'aventuriers de bas 
+niveau. Avec mes tables des critiques, il vaut mieux être prudent quand on balance un monstre à des débutants.
+ Au niveau des « actions d'éclat » des joueurs et de la résolution des énigmes, je suggère de ne jamais distribuer 
+plus de 10 XP à la fois... Histoire de garder un intérêt dans la progression des héros. Je garde en général le meilleur 
+pour la fin, avec un petit paquets de points (à évaluer soigneusement selon la durée de l'aventure) gardés sous le 
+coude et distribués au dernier moment, quand le groupe termine sa mission ou sa campagne. C'est l'idéal pour 
+motiver les joueurs à jouer une autre partie, quand ils passent au niveau supérieur au dernier moment.
+ Lorsque je propose un scénario, j'indique souvent la quantité d'XP à distribuer à chaque joueur, mais comme tout 
+le reste des documents ces valeurs sont à prendre avec du recul... Si vos joueurs ont suivi la partie n'importe 
+comment ou avec brio, vous pouvez choisir de changer tout cela.
+ Gardez en tête que le plus important dans l'aventure, c'est la progression... Et pour que l'intérêt du jeu soit 
+durable, il faut également que la progression le soit. Si vous donnez trop d'expérience à vos aventuriers trop vite, 
+ils atteindront rapidement la lassitude qui s'installe chez le « gros bill » auquel tout réussit.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 10
+____
+=== Combat Rules _(currently unsupported)_
+____
+Règles de COMBAT
+ Le combat au corps-à-corps est très simple, et se déroule en trois phases : attaque, parade, dégâts. Gardez bien en 
+tête la gestion du temps et sachez gérer les actions simultanées, pour conserver le réalisme de l'ensemble ! Pensez 
+au déplacement, aux épreuves de courage, à l'esquive, à l'utilisation du terrain. Tous ces conseils vous éviteront 
+d'avoir des combats qui ressemblent à une suite de jets de dés.
+ Note importante : tous les dégâts mentionnés dans les combats avec D... sont tirés au D6 !
+ Pour le corps à corps, vous n'avez besoin en théorie que de quelques valeurs chiffrées : Attaque et Parade 
+(AT/PRD), Dégâts ou Points d'Impacts (PI - dépendant de l'arme), Protection (PR), Courage (COU). Ces valeurs 
+sont fournies dans les tables des rencontres. Il reste ensuite à connaître le capital d'énergie vitale (EV) puisqu'on 
+va faire en sorte de le réduire à zéro. Le MJ consciencieux prendra soin par ailleurs de modifier le comportement 
+d'un monstre lorsque son EV arrive à 3 ou 4 : panique, baisse des capacités, évanouissement, furie soudaine...
+ INITIATIVE – qui tape le premier ?
+ Une fois au corps à corps, celui qui a la plus grande valeur de COURAGE porte le premier coup à l'adversaire de 
+son choix. Dans le cas d'un duel à l'arme de jet, c'est celui qui a la plus grande valeur d'ADRESSE qui tire le 
+premier, à moins d'avoir pris l'ennemi par surprise bien sûr. Dans le doute, le MJ décide, comme toujours. La 
+compétence « Chercher des Noises » permet de toujours taper le premier.
+ ATTAQUE – PHASE 1
+ Le combattant A, qui porte le premier coup, va faire une épreuve d'attaque : il doit faire un score inférieur ou 
+égal à sa valeur d'ATTAQUE avec le D20.
+ ➢ S'il tire 1, c'est une « attaque critique » particulièrement réussie (voir page suivante)
+ ➢ S'il fait un score inférieur ou égal à sa valeur d'ATTAQUE, c'est une attaque réussie (voir parade/esquive)
+ ➢ S'il fait un score supérieur à sa valeur d'ATTAQUE, c'est une attaque ratée (l'adversaire B peut donc riposter)
+ ➢ S'il tire 20, c'est une « maladresse d'attaque », un « fumble », un échec critique (voir page suivante)
+ Parade/esquive – PHASE 2
+ Le combattant A a réussi son attaque, son adversaire B va donc tenter de dévier le coup avec son arme. C'est ce 
+qu'on appelle la parade : B doit faire un score inférieur ou égal à sa valeur de PARADE avec le D20.
+ ➢ S'il tire 1, c'est une « parade critique » particulièrement réussie (voir ci-dessous)
+ ➢ S'il fait un score inférieur ou égal à sa valeur de PARADE, c'est une parade réussie (et B peut donc riposter)
+ ➢ S'il fait un score supérieur à sa valeur de PARADE, la parade échoue (voir dégâts)
+ ➢ S'il tire 20, c'est une « maladresse de parade », un « fumble », un échec critique (voir ci-dessous)
+ Note : l'adversaire B peut également choisir l'esquive, en réalisant avec succès une épreuve d'adresse au lieu d'une épreuve de parade, 
+et au détriment de son attaque suivante. Pour utiliser cette règle, lisez attentivement, plus bas, les règles d'esquive.
+ Dégâts – PHASE 3
+ C'est le moment de vérifier si cette épée toute neuve a du potentiel...
+ ➢ Le combattant qui a réussi son attaque tire les dégâts en fonction de l'armement qu'il utilise (ex. 1D+3+bonus de force)
+ ➢ L'adversaire retranche du résultat la valeur de sa PROTECTION (PR), et enlève le résultat de son capital d'ÉNERGIE 
+VITALE (note : la protection n'est pas retranchée si c'est un coup critique)
+ ➢ Si l'adversaire est toujours vivant, c'est son tour de taper... On recommence à la phase 1
+ ➢ On peut considérer qu'en descendant à 2 ou 3 points d'énergie vitale, le personnage perd connaissance ou s'effondre
+ ➢ En descendant à zéro, l'opposant meurt... sauf cas particulier, bien sûr.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 11
+EN OPTION : Critiques et maladresses
+ Si vous voulez simplifier le jeu au maximum, vous pouvez ignorer cette page. Les attaques et parades critiques, 
+ainsi que les maladresses, sont cependant recommandées pour :
+ ➢ Des combats plus rapides, plus surprenants, plus évolués
+ ➢ Des parties plus amusantes et plus dynamiques
+ ATTAQUE CRITIQUE
+ Le combattant a réussi une attaque critique (1 au D20) ! C'est une attaque particulièrement réussie, visant une 
+partie du corps vulnérable, ou bien faisant suite à un mouvement audacieux. L'adversaire ne peut ni parer ni 
+esquiver cette attaque, parce qu'elle est trop super-destroy. Le combattant chanceux tire un D20 supplémentaire 
+afin de connaître les conséquences précises de cette attaque, sur la table relative à l'armement utilisé (disponible 
+dans l'écran en général). On passe ensuite directement à la phase des dégâts et on apporte les modifications 
+indiquées par la table, éventuellement les modifications de caractéristiques dues aux blessures graves (car un 
+ennemi amputé du bras droit se défend moins bien). Notez que le score d'armure (PR) naturel de la cible touchée 
+par une attaque critique n'est pas retranché des dégâts. La réussite d'une attaque critique est à la fois une preuve 
+d'intelligence, de chance et d'habileté. Certains monstres ou créatures n'en font jamais. Il est possible d'augmenter 
+les chances de critique, par exemple avec beaucoup de puissance, une grande taille ou du matériel performant.
+ Maladresse d'attaque
+ Le combattant a complètement raté son attaque ! L'adversaire ricane et le combattant tire un D20 
+supplémentaire et observe le résultat dans la table « Maladresse d'attaque et parade ». Il peut alors se blesser, 
+frapper un camarade, perdre ou casser son arme, ou se tuer lui-même s'il est vraiment malchanceux.
+ PARADE CRITIQUE
+ L'adversaire a réussi une parade critique, dans un mouvement particulièrement audacieux ! Le combattant n'a 
+pas réussi à le toucher, mais en outre risque de se prendre une riposte ou de casser son arme. On tire un D20 
+supplémentaire et on observe le résultat dans la table de « Parade critique ».
+ Maladresse dE PARADE
+ L'adversaire a gravement raté sa parade. Il doit tirer un D20 supplémentaire et observer le résultat dans la 
+table « Maladresse d'attaque et parade ». Il peut alors se blesser, frapper un camarade, perdre ou casser son arme, 
+ou se tuer lui-même s'il est vraiment malchanceux (et là... mort de rire !).
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 12
+Combat à mains nues
+ Ce cas se rencontre généralement lorsque l'aventurier perd ou casse son arme, ou bien quand il veut faire son 
+malin à la taverne. À mains nues, le héros peut seulement esquiver les coups (épreuve d'ADRESSE, avec 
+mouvement associé) et non les parer, sauf si l'adversaire est lui-même à mains nues. Les dégâts sont en général de 
+1D6-2 auxquels on ajoute le bonus de force (on peut donc ne causer aucun dégât), et bien entendu la valeur de 
+protection de l'adversaire est à retrancher. Le héros souffre en outre d'un malus de -4 à son score d'ATTAQUE, 
+sauf s'il dispose de la compétence « Bourre-pif ». En cas de maladresse ou de réussite critique à mains nues, 
+consultez les tableaux correspondants sur l'écran du MJ.
+ La compétence « Bourre-pif » est importante ici car elle supprime le malus à l'attaque et augmente les dégâts. 
+Ceux-ci passent à 1D6+bonus de force. Ceux qui disposent de cette compétence peuvent également tenter les 
+coups spéciaux du tableau suivant. Ces coups sont uniquement utilisables contre des humanoïdes standards et ne 
+fonctionnent pas contre les monstres, démons et autres animaux.
+ Pour être valides, les attaques spéciales à mains nues doivent être annoncées avant le jet de dé !
+ Coups spéciaux du combat à mains nues – Compétence « Bouffe-pif »
+ Coup annoncé Attaque Dégâts en PI Niveau requis Effet spécial
+ Notes : les attaques à mains nues suivantes ne fonctionnent qu'en l'absence d'armure (métal, cuir...) sur la partie visée.
+ Elles peuvent être parées et/ou esquivées, selon les cas. Ajoutez l'éventuel bonus de dégâts de FORCE aux PI de base.
+ Coup de poing au visage Normale 2 1 Aucun
+ Coup de genou aux parties* Malus -2 3 1 1 à 4 au D20 : cible immobilisée
+ Coup assommant Malus -4 2 1 Cible assommée
+ Coup de pied fauchant Malus -3 2 2 La cible est au sol et rate trois assauts
+ Gifle humiliante Normale 1 2 Cible : COU-2 le temps du combat
+ Coup de tête dans le nez Malus -4 1D 2 Nez brisé : CHA-3
+ 1 à 4 au 20 : cible assommée
+ Coup de pied sauté au visage Malus -4 1D 3 Aucun
+ Clé de bras stupéfiante De 1 à 4 Blessure grave** 3 1 à 4 au D20 : bras cassé
+ Coup de coude au plexus Malus -2 2 4 1 à 4 au D20 : cible immobilisée
+ Double gifle incapacitante Malus -3 2 4 Cible : AT/PRD-2 le temps du combat
+ Coup de poing à la gorge Malus -3 1D+1 5 1 à 4 au D20 : cible immobilisée
+ Magotomashi à la tempe Malus -4 1D+2 5 1 à 4 au 20 : cible assommée
+ Coup précis au foie Malus -2 3 6 1 à 4 au D20 : cible immobilisée
+ Coup de pied sauté retourné Malus -4 1D+3 6 Cible assommée
+ Paume de Song-Fu Malus -5 2D 7 Cible : AT/PRD-5 le temps du combat
+ Duo de pouces dans les yeux Malus -5 Blessure grave 7 Cible aveuglée (permanent)
+ Fracassement du crâne De 1 à 4 Décès 8 Sur 1 à 4 au D20, et FO minimum 15
+ Arrachement manuel du cœur De 1 à 4 Décès 9 Sur 1 à 4 au D20, et FO minimum 15
+ *Ce coup est efficace uniquement sur un ennemi de sexe masculin
+ **Si l'effet est obtenu, appliquer les dégâts des critiques à mains nues (15, bras cassé) ainsi que les malus du tableau des blessures graves
+ Exemple : Dans l'auberge, Grumuf le Barbare niveau 2 veut casser le nez de Franck, le serveur véreux.
+ Grumuf a 10 en ATTAQUE : il doit donc faire 6 ou moins (10-4) pour lui mettre un coup de boule. S'il réussit, 
+Franck aura le nez cassé et encaissera 1D6 PI. Si Grumuf fait 4 ou moins, il l'aura également assommé ! S'il rate 
+son attaque spéciale, il ne se passe rien. Franck peut essayer d'esquiver avec une épreuve d'ADRESSE.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 13
+Armes de jet et armes à distance
+ Pour tirer avec une arme de jet, rien de plus facile. Le héros doit seulement réussir une épreuve d'adresse. 
+L'épreuve sera plus ou moins difficile en fonction de la taille de la cible, de son éloignement et de l'arme utilisée. 
+C'est le Grand Vilain MJ qui doit déterminer si le personnage bénéficie d'un bonus ou d'un malus. La cible 
+intelligente peut aussi décider de tenter l'esquive, ou se mettre à couvert, courir, gesticuler, sauter pour rendre 
+l'épreuve plus difficile. Dans un souci de réalisme, le tireur qui veut se la jouer peut annoncer qu'il vise une 
+partie du corps (comme la tête), augmentant la difficulté mais également le résultat. Ces techniques de jeu 
+peuvent se révéler primordiales, quand il s'agit par exemple de tirer dans l'œil d'un cyclope.
+ N'importe qui peut jeter n'importe quoi, à condition d'en avoir la force. Cependant, les armes un peu techniques 
+ne peuvent être utilisées, avec une épreuve d'ADRESSE standard, que par ceux qui disposent de la compétence 
+Tirer correctement. Ceux qui n'ont pas la compétence auront bien sûr le droit d'essayer, mais l'épreuve sera plus 
+difficile (malus au choix du MJ). Et bien sûr, les petites créatures ne peuvent lancer des objets lourds... Notez que 
+la table des critiques aux armes de jet ne concerne que ceux qui ont la compétence Tirer correctement.
+ Hache de jet, shuriken, sarbacane, javelot, lance-pierre, fronde s'utilisent de la même façon, mais n'ont pas la 
+même portée. Le MJ décidera des possibilités de chaque arme au moment opportun. Dans le cas particulier de la 
+sarbacane, ajoutons que le grand intérêt de l'outil est de pouvoir enduire les projectiles de poison (ce qui se fait 
+aussi avec les flèches d'ailleurs)... Lesquels poisons sont disponibles dans le magnifique « Tableau des poisons et 
+antidotes ». Une dose de poison peut enduire un seul projectile (je précise, car le monde est peuplé de radins).
+ LES Armes de jet en détail
+ Pour commencer, je signale qu'un certain nombre d'informations concernant les armes peuvent être également 
+trouvées dans le guide de l'équipement.
+ Pour leur utilisation en jeu, voici quelques constantes, ce que le MJ doit garder en tête :
+ ➢ La ligne de vue doit être dégagée de tout obstacle, sinon l'épreuve doit être adaptée (malus d'adresse)
+ ➢ Les projectiles ne sont pas disponibles en quantité infinie : l'aventurier doit donc en acheter
+ ➢ Il est possible de récupérer ses armes de jet ou projectiles s'ils ne sont pas détruits ou perdus
+ ➢ Cible ratée = problème. Un carreau d'arbalète raté dans un donjon percutera souvent un mur et sera 
+détruit. Un poignard de jet a une chance d'être cassé, ou émoussé. Idem pour les flèches. Vous pouvez 
+tester leur point de rupture dans ce cas
+ ➢ On ne peut pas tirer en courant, et difficilement depuis un cheval ou un véhicule en mouvement
+ ➢ Tout allié présent devant le lanceur a une chance de se prendre un projectile à la place de la cible
+ ➢ Projectiles empoisonnés : il faut que l'arme ait causé des dégâts pour qu'un poison fasse effet, car le poison 
+doit en effet passer dans le sang, et donc traverser l'armure
+ ➢ Pour décocher un projectile rapidement, il faut avoir annoncé que l'arme était prête (avec son projectile)
+ En action de combat, les armes de jet nécessitent des placements particuliers pour pouvoir atteindre les cibles et 
+pour éviter de blesser les alliés. Le joueur devra donc indiquer ses déplacements et sa position. Par exemple, un 
+archer qui se trouve chargé par un orque proche n'aura qu'une chance de tirer. Après quoi, il devra s'emparer de 
+son arme de mêlée, car il n'est pas possible de tirer à l'arc ou à l'arbalète sur un ennemi qui vous agresse avec une 
+hache. Bien gérer le timing des combats permet de s'en rendre compte.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 14
+Armes de jet les plus connues : portée moyenne, dégâts moyens et temps de chargement
+ Arme à distance
+ Portée
+ moyenne* Dégâts moyens Temps de rechargement 
+ou délai pour dégainer
+ Notes
+ Note : ici les dégâts moyens indiqués en BL ne sont pas variables, et ne sont appliqués que s'ils sont supérieurs à la valeur de PR
+ Chaise
+ 5 m.
+ 3 BL
+ 2 assauts
+ Si si, ça se lance, une chaise...
+ Petit personnage**
+ 5 m.
+ 3 BL**
+ 4 assauts
+ Peut être lancé par un ogre
+ Chope de bière
+ 6 m.
+ 2 BL
+ 2 assauts
+ Ça se lance aussi...
+ Fléchette à main
+ 7 m.
+ 2 BL
+ 1 assaut
+ Hache de jet
+ 8 m.
+ 1D+3
+ 2 assauts
+ Lame de jet, shuriken
+ 8 m.
+ 1D+2
+ 1 assaut
+ Des trucs de ninja
+ Pavé de granite
+ 10 m.
+ 1D
+ 2 assauts
+ C'est souvent gratuit !
+ Fléchette de sarbacane
+ 10 m.
+ 1 BL
+ 3 assauts
+ Permet d'inoculer du poison
+ Lance-pierre, fronde
+ 15 m.
+ 2 BL
+ 3 assauts
+ Boomerang
+ 20 m.
+ 1D-1
+ 2 assauts
+ Très difficile d'être précis
+ Arc court
+ 40 m.
+ 1D+2
+ 3 assauts
+ Arc long ou de qualité
+ 60 m.
+ 1D+3
+ 3 assauts
+ Arbalète
+ 70 m.
+ 1D+4
+ 6 assauts
+ Javelot, lance de chasse
+ 20 m.
+ 1D+3
+ 2 assauts
+ *Portée indicative, avec laquelle il est encore possible d'être un peu précis ou de blesser la cible. Pour les objets lourds, selon force du lanceur.
+ **Quand on balance un gobelin, un gnôme ou un semi-homme sur une cible, le projectile est blessé également à l'impact !
+ Les critiques et maladresses aux projectiles
+ Dans le tableau des critiques aux projectiles, on a considéré uniquement les projectiles perforants d'une certaine 
+puissance : dagues, poignards, shuriken, javelots, flèches et carreaux, hache de jet.
+ Les cailloux, chaises et autres chopines ne donnent jamais lieu à des tirages dans ces tableaux d'attaques critiques. 
+Cependant, le MJ peut décider d'un effet intéressant liés à de tels projectiles dans le cas où le héros produirait un 
+score exceptionnel. C'est au choix, et on ne va pas faire des tableaux pour ça.
+ Les Dégâts des projectiles
+ Dans certains cas, les dégâts des projectiles sont liés à l'arme qui les lance : c'est le cas pour les arcs, arbalètes, 
+lance-pierre et autres trucs bizarres. Les projectiles peuvent ensuite apporter un bonus ou un malus, que ce soit 
+à l'épreuve d'ADRESSE nécessaire pour atteindre la cible, ou bien aux effets du projectile une fois qu'il a touché. 
+Le bonus de FORCE exceptionnelle donnant lieu à des dégâts supplémentaires est appliqué aussi, sauf pour 
+l'arbalète. En effet, c'est la seule arme à mécanisme indépendant, pour laquelle la force n'entre pas en jeu.
+ Notez bien que la plupart des effets spéciaux liés à des projectiles magiques, tout comme les poisons, ne font effet 
+qu'à partir du moment où le projectile a effectivement blessé la cible... Et donc qu'il a transpercé l'armure (ce qui 
+veut dire que ses dégâts tirés au D6 sont supérieurs au score de PR de la cible).
+ Exemple : Le cas de la flèche hypodermique de Dlul, qui indique dégâts = sommeil. La cible sera donc endormie si 
+elle est blessée.
+ Tous les projectiles notés comme enchantés (ench.) dans le tableau d'équipement sont considérés comme armes 
+magiques : ils peuvent donc blesser les créatures immunisées aux armes standard.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 15
+En option : l'esquive
+ Vous pouvez ajouter du dynamisme à votre combat en utilisant la règle d'esquive. Cette option n'était pas très 
+précise jusqu'à la version 3 des présentes règles et a donné lieu à beaucoup de dérives. C'en est maintenant 
+terminé des abus et des problèmes, grâce aux précisions suivantes.
+ L'esquive offre plusieurs avantages, mais aussi des inconvénients : une personne qui a un faible score d'attaque 
+ou de parade peut échapper à un ennemi, tout comme le héros qui a peu d'armure. En revanche, utiliser l'esquive 
+oblige un déplacement et fait manquer l'assaut suivant. Les personnages encombrés d'armure ou de matériel ont 
+d'ailleurs bien du mal à esquiver (voir à ce sujet le tableau plus bas).
+ Utiliser l'esquive
+ Pour utiliser l'esquive, c'est simple : au moment de la phase 2 du combat, le héros peut annoncer l'ESQUIVE 
+plutôt que l'habituelle PARADE. C'est plutôt recommandé pour un mage qui se retrouverait coincé au corps à 
+corps, un assassin qui combattrait à la dague (valeur de PARADE médiocre) ou une créature qui attire les 
+monstres et craint les coups (gobelin, semi-homme...). Il est ainsi possible de gagner du temps et de minimiser les 
+chances de blessure pour se faire aider, plus tard, par un autre aventurier.
+ Le héros bouge d'environ 2 mètres. Le héros qui esquive va se déplacer rapidement (et doit annoncer de quelle 
+façon : à droite, à gauche, en arrière...). Pour cela il doit donc être capable de bouger : on ne peut pas esquiver une 
+attaque en étant coincé dans un placard à balais, dans un couloir étroit au milieu du groupe, etc.
+ L'épreuve d'adresse permet donc d'échapper à l'attaque, mais elle empêche aussi le héros d'attaquer à l'assaut 
+suivant. L'attaquant en revanche pourra frapper à son tour car il se sera déplacé. Le héros peut utiliser autant 
+de fois qu'il veut l'esquive, à chaque assaut, à condition qu'il puisse bouger dans l'espace désigné comme terrain de 
+combat. Cependant, s'il procède ainsi il ne pourra jamais porter d'ATTAQUE.
+ Pour utiliser l'esquive rapidement, le MJ ou le joueur peuvent calculer à l'avance la valeur d'esquive en fonction 
+des critères du tableau (ADRESSE moins les malus), et la noter dans un coin.
+ Modificateurs à la valeur d'ADRESSE pour l'ESQUIVE
+ Valeur de PROTECTION naturelle
+ Épreuve d'ADRESSE
+ Note : La valeur de protection naturelle n'inclut pas les bonus magiques d'armure enchantée
+ Armure : 0 à 1
+ bonus+1
+ Armure : 2
+ normale
+ Armure : 3 à 4
+ malus-2
+ Armure : 5
+ malus-4
+ Armure : 6
+ malus-5
+ Armure : 7
+ malus-6
+ Armure supérieure à 7
+ Esquive impossible
+ Équipement transporté
+ Épreuve d'ADRESSE
+ Note : Le malus d'encombrement est cumulable avec le malus de protection ci-dessus
+ Sac contenant peu d'équipement, petite besace
+ normale
+ Sac plein
+ malus-2
+ Équipement très encombrant
+ Esquive impossible
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 16
+____
+=== Combat Example _(currently unsupported)_
+____
+Exemple de poutrage COMBAT
+ Admettons que Grumuf, barbare de son état, coince un gobelin nommé Zyvatareum dans le coin d'une salle de 
+donjon. Le gobelin n'a d'autre choix que de combattre au corps à corps. En temps normal, il aurait tendance à fuir 
+s'il se retrouve seul face à un barbare. Mais là, pas le choix, alors baston !
+ Caractéristiques
+ Grumuf : COU 12, AT 9, PRD 10, protection 1 (pagne), dégâts 1D+3, Énergie vitale 35
+ Zyvatareum : COU 5, AT 8, PRD 6, protection 2 (cotte matelassée), dégâts 1D+2, Énergie vitale 12
+ Grumuf attaque le premier, car sa valeur de COURAGE est supérieure à celle du gobelin
+ Premier assaut
+ Grumuf porte un coup en lançant un D20 : il obtient 10, l'attaque est ratée
+ Zyvatareum riposte, attaque à son tour en lançant un D20 : il obtient 13, l'attaque est ratée
+ Deuxième assaut
+ Grumuf attaque à nouveau en lançant un D20 : il obtient 6, l'attaque est réussie
+ Zyvatareum tente la parade avec le D20 : il obtient 9, la parade est ratée
+ Grumuf tire les dégâts au D6 : il obtient 4, il ajoute +3, pour un total de 7 (BL, points de blessure)
+ Zyvatareum est protégé à hauteur de 2 (PR), on déduit donc 5 points de son énergie vitale (BL – PR)
+ Énergie vitale du gobelin : 12 - 5 = 7
+ Zyvatareum riposte, attaque à son tour en lançant un D20 : il obtient 4, l'attaque est réussie
+ Grumuf tente la parade avec le D20 : il obtient 5, la parade est réussie, tant pis pour le gobelin
+ Troisième assaut
+ Grumuf attaque à nouveau en lançant un D20 : il obtient 1, l'attaque est réussie, c'est un critique !
+ Zyvatareum n'a pas la possibilité de parer, et oui c'est comme ça les critiques
+ Grumuf tire un D20 dans la table des critiques, armes tranchantes : il obtient 8, ce qui nous donne « coup précis 
+et dommage à l'armure » - Dégâts +4 PR -2 (le score de protection du gobelin subit aussi un malus)
+ Grumuf tire les dégâts au D6 : il obtient 2, il ajoute +3, pour un total de 5 (BL, points de blessure), auquel il ajoute 
+encore +4 grâce au dégât critique : total 9 points de BL – la valeur de protection de l'armure ne compte pas 
+puisqu'elle est détruite. Le point de rupture ne joue pas pour les monstres, ils n'ont que du matériel pourri.
+ Énergie vitale du gobelin : 7 - 9 = -2
+ Le gobelin est bel et bien mort, et son armure est détruite, il gît dans son sang sur le sol froid.
+ C'est un exemple de combat très rapide, et bien sûr il aurait pu tourner en défaveur du Barbare malgré son 
+évidente supériorité. Ne sous-estimez pas le pouvoir chaotique du dé.
+ Imaginons qu'au deuxième assaut Zyvatareum ait tiré 1 au D20 au lieu de 4, il réalisait une attaque critique. 
+Grumuf ne pouvait parer. Un score de 17 au D20 dans la table des critiques donnait « organes génitaux 
+endommagés » (c'est bien possible si on considère la taille d'un gobelin !), avec des dégâts considérables et une 
+hémorragie. Le pagne en peau d'ours de Grumuf ne pouvant sauver cette partie de son anatomie, le Barbare 
+aurait perdu 10 PV, et 1D6 encore toute les trente secondes. Il n'aurait pas succombé immédiatement à ses 
+blessures mais pouvait fort bien mourir un peu plus tard après avoir occis son adversaire, si personne de qualifié 
+ne pouvait le soigner. Vous savez tout, alors... apprenez à vous méfier !
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 17
+Le timing, essentiel dans un bon combat
+ Tout ça c'est bien beau, mais pour qu'un combat soit réaliste, il faut penser au timing. Quand on a plus de deux 
+participants dans un combat (ce qui est très fréquent), le MJ doit découper la scène de combat en assauts, et 
+s'arranger pour faire cadrer le tout dans cette unité de mesure.
+ L'assaut représente en gros deux secondes, soit le temps qu'il faut à deux combattants pour échanger chacun une 
+attaque et une parade. Dans le timing on inclut les déplacements, les actions à la noix comme « jeter une table », 
+ou le temps de rechargement d'une arbalète, le fait de dégainer une arme, ou la préparation d'un sort. Bouger de 
+quelques mètres prendra un assaut. Récupérer un brandon allumé dans un feu prendra deux assauts. Pour les 
+sortilèges c'est également très important : un mage ne peut pas incanter un missile puissant toutes les deux 
+secondes... Il devra parfois se concentrer plus longtemps (ce sera indiqué dans son grimoire). Comptez donc trois 
+assauts pour tirer une flèche avec un arc et six assauts pour recharger une arbalète (voir le tableau 
+correspondant). Le calcul des déplacements de chacun est affaire de logique, et vous pouvez vous aider du tableau 
+des déplacements (plus bas). Pour conclure, j'ajoute qu'un combat va très vite dans le jeu : souvent moins de 
+vingt secondes, même si sa résolution peut prendre trente minutes aux joueurs.
+ Le moral et le courage
+ La situation évolue souvent au cours d'un combat. Lorsque trois aventuriers sont attaqués par six bandits, il 
+arrive un moment ou la motivation d'un camp ou de l'autre peut basculer. Les bandits, se retrouvant à deux 
+contre trois, auront tendance à paniquer, et prendre la fuite. Les aventuriers venant de perdre un camarade au 
+combat feront de même. On fuit beaucoup dans Naheulbeuk, le MJ peut gérer tout ça en lançant des épreuves de 
+courage au moment opportun, pour donner de la dynamique à l'ensemble. Cela permet des retournements sympa.
+ Cas particuliers
+ Tous les monstres ou PNJ ne se combattent pas de la même façon ! On ne peut pas trancher une nuée de mouches 
+venimeuses à l'épée, tout comme on ne peut parer les coups d'une flaque de limon glaireux ou percer d'une flèche 
+un golem de pierre... Le MJ doit s'adapter et trouver le style de combat adapté à chaque monstre, qui n'est pas 
+forcément du « corps à corps » classique. Par ailleurs, certains d'entre eux peuvent ne pas porter de « coups 
+critiques », et là encore c'est au MJ d'en décider quand ça n'est pas spécifié. Un zombie complètement abruti et 
+sans arme aura du mal à passer sous l'armure d'un héros pour lui percer le cœur. Bref, encore une fois ne suivez 
+pas les règles aveuglément... Utilisez votre logique. Vous êtes le MJ, vous avez tous les droits pour adapter les 
+règles (et bien souvent vous les utiliserez en faveur des joueurs).
+ Précisions concernant l'armure
+ Le score de protection (PR) d'un personnage indique sa capacité générale à absorber les coups. On additionne donc 
+toutes les valeurs PR des différentes pièces d'armures pour en noter le total dans la grande case « Protection ». Il 
+est évident qu'un casque ne protège pas d'une blessure au ventre, mais cette façon de gérer l'armure permet 
+d'éviter de localiser chaque coup, en diluant ses effets d'une manière générale derrière l'armure. Localiser tous les 
+coups plomberait lourdement le jeu, et on a déjà bien assez à faire avec les coups critiques (mais c'est possible et ça 
+sera sans doute proposé en option). Qu'on se rassure, un score de protection élevé est souvent accompagné de 
+nombreux malus, il est donc rare de trouver des aventuriers harnachés comme des tanks en Terre de Fangh. Ou 
+alors ils sont riches et puissants, et dans ce cas : courez.
+ Vous pouvez en savoir plus sur les armures et leur usage dans le Guide de l'équipement.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 18
+Point de rupture des armes et du matériel
+ Cette règle est particulière et s'applique aux joueurs uniquement. Si vous utilisez les tables des critiques, vous 
+verrez que les héros rencontrent de graves problèmes : arme cassée, armure détruite, membres tranchés... On 
+considère toujours que le coup critique traverse l'armure, MAIS on a le droit de considérer également qu'une 
+bonne pièce d'armure bien placée n'est pas là que pour décorer.
+ La mystérieuse valeur de RUPTURE indiquée dans la dernière colonne permet de savoir si le matériel résiste à la 
+contrainte, ou non. Cette valeur est importante dans la mesure où elle peut permettre de sauver la vie/le 
+membre/l'armure d'un personnage. C'est aussi souvent le justificatif de la différence de prix entre le « matériel 
+de base » et les œuvres de maîtres-artisans renommés. Gérer le point de rupture rend l'achat et la recherche de 
+matériel beaucoup plus intéressants.
+ Fonctionnement : une valeur « de 1 à 4 » (matériel bas de gamme) signifie qu'en cas de problème, le héros pourra 
+tenter de sauver son matériel (ou les organes qu'il protège) en tirant 5 ou 6 au D6. Dans le cas d'un coup critique, 
+il suffit de faire attention à la localisation du coup et vérifier si la résistance de l'équipement peut être utile.
+ Exemple : un coup critique à la tête a de grandes chances de ne pas aboutir à la mort si le héros porte un casque 
+luxe d'artisan nain (rupture 1-2). Il ne sera blessé que s'il fait 1 ou 2 au dé, contre 1 à 5 pour un casque de cuir 
+minable. Avouez qu'il y a une logique...
+ Autre exemple : le sabre de Guy le Batailleur, qui est une relique historique hors de prix, ne peut être brisé. Si la 
+maladresse de parade indique « arme brisée », le MJ décidera qu'elle n'a pas d'effet.
+ Le Grand Vilain MJ peut gérer ces aspects en questionnant le joueur au bon moment, s'il se prend un coup 
+critique d'un monstre et que son matériel peut le sauver. Je conseille en revanche de ne pas appliquer ces règles 
+aux monstres, pour les raisons suivantes : a) on ne sait jamais précisément de quoi est équipé un monstre ou un 
+PNJ,  b) on n'a pas que ça à faire, c) il faut bien qu'on trouve un avantage à être un aventurier.
+____
+=== Combat against multiple adversaries _(currently unsupported)_
+____
+Combat contre plusieurs adversaires
+ C'est assez fréquent finalement de voir un adversaire en affronter plusieurs. D'une part, vos aventuriers 
+essaieront le plus souvent de se placer eux-même dans cette situation, d'autre part certains monstres comme les 
+gobelins sont les spécialistes de l'attaque en masse.
+ Dans ce cas, il suffit de garder en tête qu'un assaut (deux secondes environ) représente une attaque et une parade 
+pour chaque combattant. Un adversaire qui doit en affronter trois n'aura le temps de porter qu'une seule attaque 
+et une parade au cours d'un assaut, il devra donc choisir contre qui il se défend si jamais ses adversaires lui 
+portent un coup en même temps. Un adversaire ambidextre et adroit pourra parer un seul coup dans le même 
+assaut, même s'il utilise deux armes. Le MJ déterminera donc les « groupes de combat », les différentes cellules 
+d'affrontement au sein du groupe et des monstres permettant de savoir qui tape qui, et quand. Instaurez un 
+système de « tour par tour » pour être certain de ne rien oublier. Si besoin, faites un tableau à la va-vite sur une 
+feuille blanche. Veillez à bien respecter le temps de concentration pour les mages pour lancer un sort, le temps 
+nécessaire à un archer pour prendre une flèche dans son carquois, le temps perdu par un aventurier qui se déplace 
+ou qui décide de boire une potion...
+ Usez de votre logique pour calculer les éventuels malus dus au mauvais placement d'un adversaire : attaque par 
+derrière, de côté, position de force (en hauteur) et/ou de faiblesse (dans un trou). Utilisez le terrain (murs, couloirs, 
+portes, tables, chaises, rochers, arbres, souches...) pour permettre aux aventuriers et aux PNJ de se mettre à l'abri, 
+de combattre dans les meilleures conditions.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 19
+Les déplacements pendant les combats
+ Certaines personnes ont du mal à évaluer les possibilités de déplacement dans le contexte purement imaginatif du 
+jeu de rôle. Il en résulte des problèmes au niveau de la mise en place des participants à un combat, qu'on utilise ou 
+non un modèle 2D ou 3D de visualisation. Ceux qui n'ont pas de souci avec ça peuvent passer cette page.
+ Modèles de visualisation
+ Pour savoir qui bouge, et quand, il faut avoir une idée précise de la situation des gens. Pour « mettre en scène » un 
+combat, autour de la table avec les joueurs, et sans se prendre la tête, il existe en gros deux options :
+ Le modèle 3D : utilisez des morceaux de décors factices comme des livres, des mugs, une trousse, des verres, du 
+carton de pizza... Ou des morceaux de polystyrène d'emballage. Modélisez rapidement les principaux obstacles 
+d'un lieu. Ajoutez ensuite les héros et leurs ennemis : dés surnuméraires, pions provenant de jeux de plateau, 
+haricots secs représentant les orques... Tout est bon à prendre. Vous placez les éléments et vous les déplacez dans 
+le décor en suivant les mouvements annoncés par les joueurs. L'inconvénient, c'est que c'est rapidement le bordel 
+sur la table. La version luxe : décors en carton et figurines peintes ! Mais là, on vous appelle « Môoooosieur ».
+ Le modèle 2D : Modèle que j'utilise le plus souvent... Car aisément transportable. Vous imprimez (à l'avance 
+quand il s'agit d'un lieu de combat préétabli) ou dessinez au stylo, sur une feuille blanche, un aperçu rapide du 
+décor avec les murs, obstacles et une échelle (souvent vague, mais qu'importe). Par exemple : grange, 12 mètres de 
+long, 8 de large. Vous prenez ensuite un crayon et placez des initiales de vos joueurs (Mage, Prêtre, Nain...) sur la 
+carte en question, en fonction de leur disposition au début du combat. Puis des croix ou des initiales pour leurs 
+ennemis : OA pour orque archer, CB pour Chef Bandit... C'est parti, chacun annonce ses mouvements. Déplacez 
+les initiales en les gommant puis en les retraçant à chaque fois qu'elles bougent. La version luxe : le tableau blanc 
+effaçable... Avec feutres colorés.
+ Parfois je propose une carte « pour les joueurs » de certains lieux dans les scénarii que je propose dans le site.
+ Utiliser un modèle de visualisation permet d'éviter la plupart des litiges en cours de combat : Finis les « Non mais 
+je te jure, je peux toucher le chef avec mon arc ! », « J'étais déjà au contact avec ce bandit... », « Mon sortilège 
+peut atteindre l'archer, c'est sûr ! », ou encore « Le tourbillon de Wazaa ne touche pas mes équipiers, vas-y 
+toi ! ». Le MJ et les joueurs voient immédiatement qui peut faire quoi. Ensuite, considérez le tableau ci-dessous.
+ Tableau résumé des valeurs de déplacement pour les humanoïdes
+ Valeur de PROTECTION naturelle
+ Déplacement rapide
+ Durée maxi
+ Vitesse de pointe (lancé)*
+ Durée maxi
+ Note : la valeur de PR naturelle n'inclut pas les bonus magiques d'armure enchantée
+ Sans armure, PR 0 à 1
+ 8 m. / assaut
+ FORCE x 20 sec.
+ 12 m. / assaut
+ FORCE x 5 sec.
+ Tissu rembourré, PR 2
+ 6 m. / assaut
+ FORCE x 18 sec.
+ 10 m. / assaut
+ FORCE x 4 sec.
+ Cuir durci, PR 3 à 4
+ 4 m. / assaut
+ FORCE x 15 sec.
+ 8 m. / assaut
+ FORCE x 4 sec.
+ Cuir renforcé, PR 5
+ 4 m. / assaut
+ FORCE x 10 sec.
+ 6 m. / assaut
+ FORCE x 3 sec.
+ Métal léger, PR 6
+ 3 m. / assaut
+ FORCE x 8 sec.
+ 4 m. / assaut
+ FORCE x 3 sec.
+ Métal lourd, PR 7
+ 2 m. / assaut
+ FORCE x 7 sec.
+ 3 m. / assaut
+ FORCE x 2 sec.
+ Métal intégral, PR supérieure à 7
+ 1 m. / assaut
+ FORCE x 5 sec.
+ 2 m. / assaut
+ FORCE x 2 sec.
+ *Après un assaut en « déplacement rapide », on est considéré comme « lancé » et on peut accélérer.
+ Exemple : un guerrier en armure de cuir (PR 4) avec 12 en force, qui se déplace au pas de gymnastique peut 
+parcourir quatre mètres par assaut pendant (12 x 15 sec.) = 180 secondes soit trois minutes. S'il passe en vitesse de 
+pointe, il pourra sprinter pendant seulement 48 secondes.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 20
+Le tableau des valeurs de déplacement offre en outre une proposition de calcul lié à l'endurance du sujet, et 
+pondéré par le poids ou l'encombrement de son armure. Le « déplacement rapide » implique un genre de « pas de 
+gymnastique », soit une « petite foulée » qui permet de se déplacer rapidement d'un ennemi à l'autre, pour se 
+mettre à couvert ou pour se placer derrière un obstacle. Il permet aussi d'entamer une poursuite ou un footing 
+avec un but défini. On ne peut pas tenir éternellement cette course, mais selon la force et l'endurance du sujet, il 
+est possible de courir ainsi pendant un moment. J'ai considéré également qu'un assaut (deux secondes) de 
+déplacement rapide permet d'initialiser une séquence de « vitesse de pointe », et donc une course lancée.
+ La deuxième partie du tableau montre donc les valeurs liées à la « vitesse de pointe », qui permet d'aller plus 
+vite mais pendant beaucoup moins longtemps. Un guerrier en armure complète ne pourra donc courir après un 
+bandit en haillons que pendant un temps assez court, et la plupart du temps sans le rattraper (sa valeur de 
+déplacement étant moindre, il n'a presque aucune chance à la poursuite).
+ Le poids du matériel transporté n'a pas été pris en compte pour éviter les calculs de fous : le MJ peut facilement 
+choisir d'enlever de 20 à 50% sur ces valeurs de déplacement si l'aventurier transporte un sac plein ou du 
+matériel encombrant : collection de casques à vendre au marché, cotte de mailles volée sur un ennemi, etc.
+ Si vous désirez plus de précision et plus de justesse :
+ ➢ Pour les Nains et les Gobelins, vous pouvez diminuer la valeur de déplacement de 20%
+ ➢ Pour les Semi-Hommes et Gnômes, vous pouvez diminuer la valeur de déplacement de 50%
+ ➢ Pour un Elfe Sylvain ou Elfe Noir, vous pouvez augmenter la valeur de déplacement de 20%
+ ➢ Pour les Barbares, multipliez par 2 la durée de la vitesse de course, par 5 pour le déplacement rapide – en 
+effet, les Barbares ont l'habitude de voyager en courant, ils sont super au point sur le cardio-training
+ Pour ce qui est des monstres et animaux, il faudrait faire un tableau gigantesque et ça serait très pénible à lire. 
+Donc, j'espère qu'avec les informations présentées ci-dessus le MJ saura s'adapter. Un fauve ou un dragon volant 
+se déplaceront bien sûr beaucoup plus vite qu'un aventurier en armure... C'est à prendre en compte avec sérieux 
+pour éviter les gros délires (comme « Je cours pour échapper à la panthère ».
+ En dehors de ça les valeurs de déplacement des rencontres les plus habituelles (bandits, orques, gobelins, trolls et 
+autres) sont concernées par le tableau au même titre que les aventuriers en général.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 21
+___
+=== Summary of combat stages _(currently unsupported)_
+___
+Résumé des phases d'un COMBAT
+ Note : Vous pouvez partager cette page avec vos joueurs s'ils débutent.
+ Initiative : confrontation des valeurs de courage des adversaires pour déterminer qui frappe le premier. Le plus 
+courageux attaque. Dans le cas d'une attaque à un contre plusieurs, les valeurs s'additionnent. Celui qui possède 
+la compétence « Chercher des noises » frappe toujours en premier... Dans tous les cas.
+ 1.
+ Attaque : l'adversaire 1 (attaquant) porte un coup : il tente une épreuve d'ATTAQUE
+ a) Elle échoue : l'adversaire 2 passe à l'attaque à son tour
+ b) Elle est réussie : l'adversaire 2 tente une parade ou une esquive
+ c)
+ Elle est réussie et critique : on tire un D20 dans la table des critiques et on passe aux dégâts
+ d) Elle échoue en maladresse : on tire un D20 dans la table des maladresses et on résout la crise
+ 2. Parade : l'adversaire 2 (défenseur) tente une PARADE ou une esquive (épreuve ADRESSE)
+ a) Elle échoue : on passe aux dégâts
+ b) Elle est réussie : l'adversaire 2 passe à l'attaque à son tour
+ c)
+ Elle est réussie et critique : on tire un D20 dans la table des critiques et on passe aux dégâts
+ d) Elle échoue en maladresse : on tire un D20 dans la table des critiques et on résout la crise
+ 3.
+ Dégâts : l'adversaire 1 a touché, on calcule les dégâts
+ a) Coup normal : points d'impact de l'arme + bonus - valeur de protection (PR) : le score est retiré de 
+l'énergie vitale
+ b) Coup critique :  points d'impact de l'arme + bonus + critique : le score est retiré de l'énergie vitale et les 
+conséquences du critique sont notées (entorse, bras cassé, etc.)
+ Le combat se poursuit jusqu'à ce qu'un participant tombe à 1, 2 ou 3 points d'énergie vitale... Et là il perd 
+connaissance. Il peut aussi décéder brutalement en tombant à zéro directement. Il peut également mourir d'un 
+seul coup sur un critique.
+ On rappellera les deux lois du critique :
+ 1.
+ L'armure naturelle ne s'applique pas sur un coup critique (et parfois même elle est endommagée et sa valeur réduite) à moins 
+d'un test de résistance (point de rupture), lequel est valable uniquement pour les personnages joueurs
+ 2. Le coup critique est imparable et on ne peut l'esquiver
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 22
+____
+=== Death in combat _(currently unsupported)_
+____
+NOS Camarades tombés au combat
+ En combattant des monstres hideux et vindicatifs, on peut mourir... Eh oui, c'est la vie. On peut également se 
+trouver gravement blessé. Avouez que ce serait un peu trop facile s'il n'y avait aucun risque. Voici quelques 
+informations utiles.
+ Blessures graves
+ Les turpitudes en question sont précisément décrites dans un tableau spécial intitulé « Conséquences des blessures 
+graves ». En effet, et pour garder une certaine logique relative aux lois physiques universelles, il arrive parfois 
+qu'une blessure diminue les capacités d'un héros. Ce n'est pas le cas pour une estafilade au bras ou une ecchymose 
+à l'omoplate – ça fait partie du métier – mais c'est indiqué quand on perd un bras ou une jambe. Le tableau en 
+question reprend ainsi les diverses modifications qu'il faut apporter aux caractéristiques des héros (aussi bien 
+qu'aux monstres ou aux PNJs) dans le cas où ils subiraient une blessure grave et localisée. Certaines 
+modifications sont définitives, d'autres sont temporaires et dureront le temps de la convalescence.
+ Perte d'un membre ou d'un organe
+ Certains héros malchanceux perdent assez rapidement un membre au combat (ou un œil) si le MJ utilise souvent 
+les dégâts critiques sur les coups donnés par les monstres... Mais ceci n'est bien sûr pas irrémédiable. Il convient 
+avant tout de conserver le membre ou l'organe en question : en hiver, trois ou quatre jours dans un linge, en 
+demi-saison deux jours, en été dans de la glace ou un sortilège de conservation tel que sort de glace, 
+transformation en pierre... Le héros peut ensuite se rendre chez un mage de niveau 6 ou plus et lui payer la 
+réintégration du membre ou de l'organe en question (voir le Grimoire de Magie Généraliste du niveau 6 pour plus 
+de détails). Certains prêtres auront également le pouvoir de recoller des membres, mais les guérisseurs de 
+campagne n'en sont généralement pas capables. Une personne qui dispose de la compétence « Premiers soins » 
+peut également recoller un membre en utilisant le fameux Onguent de Niptuk (disponible dans le tableau des 
+potions/objets magiques). On peut se rendre chez un guérisseur après avoir acheté l'onguent et lui faire pratiquer 
+l'opération (épreuve d'ADRESSE comme n'importe quel premier soin), si personne dans le groupe ne sait soigner.
+ Utiliser un point de destin
+ Dans le cas où un aventurier se fait arracher un bras ou décède brutalement d'une attaque de troll des collines 
+berserk armé d'une double mortensen, le joueur peut utiliser un de ses points de destin (à condition qu'il en ait 
+encore) pour éviter la catastrophe. Ce peut être de son fait (le joueur annonce : J'utilise un point de destin !), ou du 
+fait de ses camarades qui décident d'inventer une histoire (souvent grotesque, mais bon...) pour faire basculer la 
+situation dans un sens favorable, et ce grâce aux bonnes grâces des dieux. Citons comme exemple le cas d'un nain 
+qu'on pensait mort, massacré par une liche mais qui en fait fut sauvé au dernier moment par ses compagnons 
+arrivés sur les lieux du drame. « Non, le Nain n'est pas mort, nous l'avons sauvé et frappant la liche à la tête 
+avec un entonnoir de bronze ! »... « Bon, d'accord, retire un point de destin... ».
+ Quand un point de destin a été utilisé dans le cadre d'un décès, le héros revient à la vie avec ses scores et 
+caractéristiques tels qu'ils étaient avant l'événement qui a déclenché sa mort. Le point de destin ne fait 
+qu'annuler la fatalité, il n'est pas un processus magique permettant de régénérer les blessés ni les morts.
+ Exemple : le voleur Bulgo a été brutalisé par des orques, il lui reste 6 PV. Le chef orque lui porte un coup de grâce, 
+avec sa grosse hache et lui cause 10 PI. Bulgo devrait mourir, mais le groupe en décide autrement : on utilise son 
+dernier point de destin pour dire « Bon, le chef orque a raté son attaque ».
+ Bulgo revient donc du paradis des voleurs, mais il n'a toujours que 6 points de vie. Et la bataille continue !
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 23
+____
+=== Use of magic and miracles _(currently unsupported)_
+____
+Utilisation de la magie et des prodiges
+ Dans le but de rendre ce manuel le plus léger possible, toute la partie concernant la magie et la prêtrise a été 
+déplacée dans un guide à part, fort à propos intitulé : « Règles concernant la magie fanghienne ».
+ Note :
+ Pour votre premier essai du jeu de rôle Naheulbeuk, si vous n'êtes pas déjà un rôliste chevronné, nous vous 
+conseillons de ne pas vous lancer dans une carrière de mage, ou de ne pas inciter des joueurs débutants à le faire. 
+Vous pouvez donc vous épargner la lecture des règles concernant la magie. Sachez qu'une grande partie de la 
+documentation du jeu (sans doute autour de 80 %) concerne les mages et prêtres... Et ça fait vraiment beaucoup de 
+paperasse si on n'en a pas besoin.
+ Une fois la mécanique de base assimilée, il sera bien temps d'ajouter un mage ou un prêtre à ce groupe afin 
+d'augmenter ses capacités. 
+Par la suite, il n'est pas nécessaire d'imprimer les centaines de pages de magie disponibles dans le site, mais de 
+récupérer seulement ce dont vous avez besoin (par exemple la Magie Généraliste, la Magie de Combat et la 
+Prêtrise de Youclidh) et de constituer vos « Grimoires » à partir de ces impressions (en les plaçant dans un 
+classeur ou bien dans un protège-documents). Laissez les joueurs parcourir les pages de leurs grimoires en hâte, 
+comme le fait la Magicienne dans les aventures audio du Donjon !
+ Pour que la magie gagne encore en intérêt, vous pouvez donner les pages au compte-goutte aux joueurs en 
+fonction de leur progression : ils auront ainsi l'intérêt de la découverte de leurs nouveaux pouvoirs à chaque fois 
+qu'ils prennent un niveau.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 24
+____
+=== Buying power _(currently unsupported)_
+____
+Acheter de la puissance
+ ATTAQUE ET PARADE
+ Si l'aventurier a du temps, il peut se rendre chez un maître d'armes pour augmenter son attaque et/ou sa parade. 
+Prix indicatif : 500 P.O. pour un point (durée du stage : un mois / maximum un point de chaque).
+ INTELLIGENCE
+ Si l'aventurier a beaucoup de temps, il peut faire des études pour augmenter son intelligence. 
+Prix indicatif : 500 P.O. pour un point (durée du stage : six mois / maximum un point).
+ Charisme
+ L'aventurier précieux (et riche) pourra augmenter son charisme dans un institut de beauté (des trucs d'elfe).
+ Prix indicatif : 400 P.O. pour un point (durée du stage : une semaine / maximum deux points).
+ FORCE
+ Il est possible de gagner de la force en se payant un stage de musculation intensive.
+ Prix indicatif : 400 P.O. pour un point (durée du stage : un mois / maximum un point).
+ COURAGE
+ On peut augmenter son courage grâce à des séances de prise de conscience de la confiance en soi.
+ Prix indicatif : 400 P.O. pour un point (durée du stage : un mois / maximum deux points).
+ ADRESSE
+ Il n'existe pas d'école d'adresse, malheureusement, en Terre de Fangh. Seules quelques écoles très loin dans les 
+pays orientaux peuvent prétendre enseigner l'adresse aux aventuriers. Mais on n'y va pas.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 25
+____
+=== Gaining experience _(currently unsupported)_
+____
+Gagner de l'expérience
+ Au combat
+ En tuant ou en réduisant à l'impuissance leurs ennemis, les héros gagnent de l'expérience (abrégés en XP). À titre 
+indicatif, chaque  monstre ou ennemi décrit dans nos tableaux de rencontres et de référence possèdent une valeur 
+de CLASSE/XP. Cette valeur correspond au nombre de points d'expérience récupérés par les joueurs en cas de 
+succès au cours d'un combat.
+ Pour partager les points d'expérience, il y a en gros trois philosophies :
+ 1.
+ Celui qui achève le monstre gagne tous les points d'expérience : pratique relativement injuste et qui 
+encourage les joueurs à faire souvent n'importe quoi (ils s'arrangent pour frapper au dernier moment et 
+ne prennent pas de risques...) – permet un jeu particulièrement débile
+ 2. Tous les points d'expérience sont distribués à chaque joueur : pratique également injuste puisqu'elle 
+encourage les joueurs à ne rien faire du tout... En effet, quoi qu'il arrive au cours du combat ils seront 
+récompensés à la fin – à éviter
+ 3.
+ Partage « à la volée » des XP par le MJ : la meilleure solution... le MJ peut décider d'allouer tous les 
+points à un aventurier (s'il a défait un ennemi à lui tout seul), de partager les points (peu de points au 
+final pour chacun), ou encore dans le cas d'un combat épique et bien équilibré de donner tous les points à 
+tous les intervenants du combat. Le MJ prendra vite l'habitude de gérer cela en temps réel.
+ En cours d'aventure
+ Chaque action particulièrement réussie, chaque bonne idée ou chaque progrès réalisé dans une quête peut 
+rapporter de l'expérience aux joueurs. Dans certains cas, une erreur peut également rapporter des XP. De plus, il 
+est conseillé de garder un « petit paquet » de points d'expérience à distribuer en fin de quête.
+ Donjon de Naheulbeuk - Jeu de rôle
+ Les niveaux et l'expérience
+ Expérience
+ Niveau
+ 0
+ 100
+ 300
+ 600
+ 1000
+ 1500
+ 2100
+ 2800
+ 3600
+ 4500
+ 5500
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ Expérience
+ 9100
+ 10500
+ 12000
+ 13600
+ 15300
+ 17100
+ 19000
+ 8
+ 9
+ 10
+ 11
+ 6600
+ 7800
+ 12
+ 13
+ 21000
+ 24000
+ 29000
+ 35000
+ 45000
+ 60000
+ Niveau
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 26
+____
+=== Gaining a level: Summary _(currently unsupported)_
+____
+On prend un niveau : résumé
+ Voici les modifications à appliquer à chaque passage de niveau...
+ Énergie vitale/Énergie Astrale
+ Partir à l'aventure, ça renforce...
+ Pour chaque niveau gagné, ajouter 1D6 à son énergie vitale OU astrale (ou 1D4 dans certains cas de classe ou race). Ce 
+choix détermine la volonté du personnage de plutôt mettre en avant sa faculté de survie ou sa puissance.
+ Niveaux pairs (2, 4, 6 etc.) - Augmenter une caractéristique
+ Ajouter 1 point au choix sur un score de base de : FORCE, ADRESSE, COURAGE, INTELLIGENCE
+ Note : On ne peut pas augmenter son charisme avec les niveaux, sauf pour les elfes sylvains pour qui c'est automatique. 
+Il est possible en revanche d'augmenter ce score avec un stage, des objets ou de l'équipement (voir page précédente).
+ Niveau impairs (3, 5, 7, etc.) - Augmenter Attaque ou parade
+ On apprend à se battre en étant confronté à l'adversité... Mais ça prend du temps.
+ Ajouter 1 point au choix sur le score de base d'ATTAQUE ou sur le score de base de PARADE.
+ Note : De toute façon le 20 sera toujours une maladresse – sauf cas particulier.
+ Note importante sur les niveaux : ces changements appliqués seulement sur les niveaux pairs/impairs datent de la mise à 
+jour en V.3.0. des règles – elle permet d'allonger considérablement la durée et l'intérêt du jeu.
+ Plus tard, le héros pourra, à chaque niveau, acquérir également des capacités spéciales (en cours de rédaction).
+ En plus, AU NIVEAU 3
+ On peut choisir une compétence supplémentaire.
+ En plus, AU NIVEAU 5
+ Un mage spécialisé peut choisir une deuxième spécialisation et l'ajouter à la première.
+ En plus, AU NIVEAU 6
+ On peut choisir une compétence supplémentaire.
+ En plus, AU NIVEAU 10
+ On peut choisir encore une compétence supplémentaire, et après c'est fini !
+ Un mage spécialisé peut choisir une troisième spécialisation et l'ajouter aux précédentes.
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 27
+____
+=== Mankdebol et débilibeuk _(currently unsupported)_
+____
+Mankdebol et débilibeuk (règles option.)
+ Les deux règles suivantes sont à gérer uniquement par le Grand Vilain MJ. Nous conseillons vivement de ne pas en 
+informer les joueurs, afin qu'ils ne modifient pas leur façon de jouer en fonction de ces règles. Garder une bonne part de 
+mystère autour des calamités et des faveurs des dieux peut se révéler beaucoup plus amusant.
+ Des cases prévues pour ces règles ont été ajoutées à la feuille du MJ disponible dans la partie « Aides de jeu » du site.
+ Les points de Mankdebol
+ Il y a des aventuriers qui « cherchent » les embrouilles. Idées débiles et dangereuses, coups bas aux équipiers, actions 
+risquées, échecs monumentaux. Ceux-là représentent des cibles de choix pour Mankdebol, dieu de la Malchance.
+ Notez dans un coin de feuille un « point de Mankdebol », à chaque fois que les aventuriers ratent une action d'éclat, qu'ils 
+tentent quelque chose de débile ou qu'ils se mettent volontairement en danger. Au bout de cinq points, nous suggérons 
+d'inviter Mankdebol à se manifester, pour leur faire tomber sur le coin de la théière une calamité improbable. Une table des 
+calamités prévue à cet effet est à votre disposition. C'est le dur apprentissage de la vie.
+ Les points de Mankdebol sont plus amusants à gérer sur le groupe entier : en collectant les points de manière globale, sans 
+prêter attention au personnage qui les génère. Ainsi, n'importe qui peut pâtir des actions foireuses d'un autre membre du 
+groupe. C'est d'ailleurs souvent le petit avec les lunettes, et c'est tant pis pour lui.
+ Le Débilibeuk
+ À l'inverse de Mankdebol, une remarque particulièrement drôle ou une action d'éclat réussie vaudra la faveur des dieux à 
+vos aventuriers. Dans le même ordre d'idée que les points de Mankdebol, nous conseillons au MJ de tenir un compte de 
+« points de Débilibeuk ».
+ Ceux-ci peuvent être tenus à titre individuel (pour chaque personnage) ou au titre du groupe. Dans la version individuelle, 
+on peut considérer qu'au bout de cinq points, le personnage gagne un point de destin. C'est une faveur qui n'est pas anodine, 
+mais peut se révéler très utile pour ceux qui ont la guigne avec les dés.
+ Dans la version « de groupe », le MJ peut choisir d'effacer un point de Mankdebol pour chaque point Débilibeuk gagné. Il 
+retarde ainsi l'échéance de la prochaine calamité. Il peut aussi choisir de mettre sur la route des personnages un objet 
+magique, un trésor, une relique... Il peut également utiliser une table de « faveurs des dieux » (disponible dans le site). Il 
+peut choisir de gratifier d'un point de destin le personnage du groupe qui en a le moins... Bref, les possibilités sont 
+nombreuses.
+ Et maintenant... EN ROUTE POUR l'AVENTURE !
+ Textes : John Lang alias POC, et un peu de Thorgrim. M.A.J. 3.0 avec le concours de Licoy et Carey.
+ Illustrations : Marion Poinsot (BD Naheulbeuk - http://katurajdr.fr/) et Dark Tod (http://dark.tod.free.fr/)
+ Règles de base du JDR Naheulbeuk – pour MJ confirmé – Page 28
+ ____
