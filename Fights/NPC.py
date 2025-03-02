@@ -1,6 +1,10 @@
 import random     # For dice throws
 import json       # For criticals
 
+import os
+current_dir = os.path.dirname(__file__)
+resources_path = os.path.join(current_dir, "resources/")
+
 # Dices
 def throw_dice100():
     return random.randint(1,100)
@@ -31,7 +35,7 @@ crit_tables = [
 ]
 myCrits = vars()
 for table in crit_tables:
-    with open('resources/'+table+'.json', 'r') as openfile:
+    with open(resources_path+table+'.json', 'r') as openfile:
         myCrits[table] = json.load(openfile)
 
 class enemy:
