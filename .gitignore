@@ -1,6 +1,7 @@
+.idea
 *.ipynb_checkpoints
 __pycache__
-Fights/save_file/*
+Fights/saved-state/save_file/*
 Fights/current_save
 Fights/encounters/*
-Fights/resources/*.json
+Fights/backend/resources/*.json
