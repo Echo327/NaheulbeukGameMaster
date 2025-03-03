@@ -67,7 +67,7 @@ class enemy:
         self.EXP = EXP;
         
         self.state = "ALIVE"; # Alive by default #! State should be saved
-        self.filename = "save_file/saved_state_" + str(self.NAME)
+        self.filename = "../saved-state/save_file/saved_state_" + str(self.NAME)
         
     def info(self):
         information = str(self.NAME) + " a "                                # NAME has
