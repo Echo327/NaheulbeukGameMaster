@@ -58,3 +58,10 @@ class api_enemy:
         for op_info in enemy_dict.values():
             ret += op_info.info() + "\n"
         return ret
+
+    def test(i):
+        if (i ==  True):
+            return "true"
+        else:
+            return "false"
+    
